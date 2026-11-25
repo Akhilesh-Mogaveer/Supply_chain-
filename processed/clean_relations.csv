@@ -1,0 +1,446 @@
+supplier_id,supplier_name,customer_id,customer_name
+a,Agilent Technologies,abbv,AbbVie
+a,Agilent Technologies,pfe,Pfizer
+abbv,AbbVie,cah,Cardinal Health
+abbv,AbbVie,cor,Cencora
+abbv,AbbVie,mck,McKesson
+abt,Abbott Laboratories,dgx,Quest Diagnostics
+abt,Abbott Laboratories,lh,Labcorp
+adi,Analog Devices,anet,Arista Networks
+adi,Analog Devices,dell,Dell Technologies
+alab,Astera Labs,amzn,Amazon
+alny,Alnylam Pharmaceuticals,cor,Cencora
+amat,Applied Materials,intc,Intel
+amat,Applied Materials,mu,Micron
+amd,AMD,amzn,Amazon
+amd,AMD,dell,Dell Technologies
+amd,AMD,googl,Alphabet
+amd,AMD,meta,Meta Platforms
+amd,AMD,mrcy,Mercury Systems
+amd,AMD,msft,Microsoft
+amd,AMD,orcl,Oracle
+amgn,Amgen,cor,Cencora
+ampx,Amprius Technologies,avav,AeroVironment
+amzn,Amazon,crm,Salesforce
+amzn,Amazon,crwd,CrowdStrike
+amzn,Amazon,ddog,Datadog
+amzn,Amazon,duol,Duolingo
+amzn,Amazon,estc,Elastic
+amzn,Amazon,ftnt,Fortinet
+amzn,Amazon,intu,Intuit
+amzn,Amazon,mdb,MongoDB
+amzn,Amazon,ndaq,Nasdaq
+amzn,Amazon,pltr,Palantir
+amzn,Amazon,rpd,Rapid7
+amzn,Amazon,s,SentinelOne
+amzn,Amazon,sail,SailPoint
+amzn,Amazon,snow,Snowflake
+amzn,Amazon,tenb,Tenable
+amzn,Amazon,wday,Workday
+anet,Arista Networks,meta,Meta Platforms
+anet,Arista Networks,msft,Microsoft
+aph,Amphenol,nvda,Nvidia
+arm,Arm Holdings,amzn,Amazon
+arm,Arm Holdings,googl,Alphabet
+arm,Arm Holdings,meta,Meta Platforms
+arm,Arm Holdings,msft,Microsoft
+arm,Arm Holdings,nvda,Nvidia
+arm,Arm Holdings,qcom,Qualcomm
+avgo,Broadcom,amzn,Amazon
+avgo,Broadcom,anet,Arista Networks
+avgo,Broadcom,googl,Alphabet
+avgo,Broadcom,meta,Meta Platforms
+avgo,Broadcom,msft,Microsoft
+axp,American Express,coin,Coinbase
+axp,American Express,fisv,Fiserv
+axp,American Express,gpn,Global Payments
+axp,American Express,ms,Morgan Stanley
+axp,American Express,schw,Charles Schwab
+bax,Baxter International,cah,Cardinal Health
+bdx,Becton Dickinson,cah,Cardinal Health
+bdx,Becton Dickinson,lh,Labcorp
+be,Bloom Energy,aep,American Electric Power
+be,Bloom Energy,eqix,Equinix
+be,Bloom Energy,orcl,Oracle
+biib,Biogen,mck,McKesson
+bio,Bio-Rad Laboratories,lh,Labcorp
+bmrn,BioMarin Pharmaceutical,cor,Cencora
+bmy,Bristol Myers Squibb,cor,Cencora
+bmy,Bristol Myers Squibb,mck,McKesson
+bny,BNY,blk,BlackRock
+br,Broadridge,gs,Goldman Sachs
+br,Broadridge,kkr,KKR
+bsx,Boston Scientific,cah,Cardinal Health
+bwxt,BWX Technologies,gev,GE Vernova
+cah,Cardinal Health,cvs,CVS Health
+cah,Cardinal Health,unh,UnitedHealth
+carr,Carrier Global,dlr,Digital Realty
+carr,Carrier Global,eqix,Equinix
+cdns,Cadence Design Systems,amd,AMD
+cdns,Cadence Design Systems,avgo,Broadcom
+cdns,Cadence Design Systems,intc,Intel
+cdns,Cadence Design Systems,nvda,Nvidia
+cdns,Cadence Design Systems,qcom,Qualcomm
+ceg,Constellation Energy,msft,Microsoft
+cien,Ciena,eqix,Equinix
+cien,Ciena,msft,Microsoft
+cme,CME Group,gs,Goldman Sachs
+cme,CME Group,hood,Robinhood
+cme,CME Group,ibkr,Interactive Brokers
+cme,CME Group,jpm,JPMorgan Chase
+cme,CME Group,ms,Morgan Stanley
+cme,CME Group,schw,Charles Schwab
+cohr,Coherent,anet,Arista Networks
+cohr,Coherent,cien,Ciena
+coin,Coinbase,blk,BlackRock
+cor,Cencora,ci,The Cigna Group
+crdo,Credo Technology,amzn,Amazon
+crdo,Credo Technology,msft,Microsoft
+crl,Charles River Laboratories,alny,Alnylam Pharmaceuticals
+crl,Charles River Laboratories,bmrn,BioMarin Pharmaceutical
+crl,Charles River Laboratories,bmy,Bristol Myers Squibb
+crl,Charles River Laboratories,incy,Incyte
+crl,Charles River Laboratories,lly,Eli Lilly
+crl,Charles River Laboratories,pfe,Pfizer
+crl,Charles River Laboratories,regn,Regeneron
+crl,Charles River Laboratories,zts,Zoetis
+crm,Salesforce,ncno,nCino
+crwv,CoreWeave,msft,Microsoft
+csco,Cisco,amzn,Amazon
+csco,Cisco,cdw,CDW
+csco,Cisco,msft,Microsoft
+cw,Curtiss-Wright,ceg,Constellation Energy
+cw,Curtiss-Wright,duk,Duke Energy
+cw,Curtiss-Wright,smr,NuScale Power
+cw,Curtiss-Wright,so,Southern Company
+dco,Ducommun,boeing,Boeing
+dco,Ducommun,lmt,Lockheed Martin
+dco,Ducommun,noc,Northrop Grumman
+dco,Ducommun,rtx,RTX
+dell,Dell Technologies,cdw,CDW
+dell,Dell Technologies,crwv,CoreWeave
+dell,Dell Technologies,tdc,Teradata
+dgx,Quest Diagnostics,ci,The Cigna Group
+dhr,Danaher,amgn,Amgen
+dhr,Danaher,lly,Eli Lilly
+dhr,Danaher,regn,Regeneron
+dlr,Digital Realty,msft,Microsoft
+drs,Leonardo DRS,gd,General Dynamics
+dxcm,DexCom,cvs,CVS Health
+eme,EMCOR Group,dlr,Digital Realty
+eme,EMCOR Group,eqix,Equinix
+emr,Emerson Electric,ceg,Constellation Energy
+emr,Emerson Electric,duk,Duke Energy
+emr,Emerson Electric,nee,NextEra Energy
+emr,Emerson Electric,vst,Vistra
+enph,Enphase Energy,run,Sunrun
+entg,Entegris,intc,Intel
+entg,Entegris,mu,Micron
+eqix,Equinix,amzn,Amazon
+eqix,Equinix,ftnt,Fortinet
+eqix,Equinix,msft,Microsoft
+eqix,Equinix,zs,Zscaler
+etn,Eaton,aep,American Electric Power
+etn,Eaton,duk,Duke Energy
+etn,Eaton,exc,Exelon
+etn,Eaton,nee,NextEra Energy
+etr,Entergy,meta,Meta Platforms
+fico,Fair Isaac (FICO),tru,TransUnion
+fis,FIS,fitb,Fifth Third Bancorp
+fisv,Fiserv,pnc,PNC Financial
+fisv,Fiserv,wfc,Wells Fargo
+fix,Comfort Systems USA,dlr,Digital Realty
+fix,Comfort Systems USA,eqix,Equinix
+fly,Firefly Aerospace,lhx,L3Harris
+fly,Firefly Aerospace,lmt,Lockheed Martin
+form,FormFactor,ionq,IonQ
+form,FormFactor,qbts,D-Wave Quantum
+form,FormFactor,rgti,Rigetti Computing
+fslr,First Solar,nee,NextEra Energy
+ge,GE Aerospace,boeing,Boeing
+ge,GE Aerospace,lmt,Lockheed Martin
+ge,GE Aerospace,txt,Textron
+gehc,GE HealthCare,cah,Cardinal Health
+gev,GE Vernova,aep,American Electric Power
+gev,GE Vernova,ceg,Constellation Energy
+gev,GE Vernova,duk,Duke Energy
+gev,GE Vernova,nee,NextEra Energy
+gev,GE Vernova,nrg,NRG Energy
+gev,GE Vernova,so,Southern Company
+gev,GE Vernova,tln,Talen Energy
+gev,GE Vernova,vst,Vistra
+gild,Gilead Sciences,cah,Cardinal Health
+gild,Gilead Sciences,cor,Cencora
+gild,Gilead Sciences,mck,McKesson
+gnrc,Generac,amzn,Amazon
+googl,Alphabet,app,AppLovin
+googl,Alphabet,cme,CME Group
+googl,Alphabet,estc,Elastic
+googl,Alphabet,panw,Palo Alto Networks
+gs,Goldman Sachs,kkr,KKR
+hei,HEICO,boeing,Boeing
+hei,HEICO,gd,General Dynamics
+hei,HEICO,lmt,Lockheed Martin
+hei,HEICO,noc,Northrop Grumman
+hei,HEICO,rtx,RTX
+hii,Huntington Ingalls Industries,gd,General Dynamics
+hon,Honeywell,boeing,Boeing
+hon,Honeywell,gd,General Dynamics
+hon,Honeywell,lmt,Lockheed Martin
+hon,Honeywell,noc,Northrop Grumman
+hon,Honeywell,txt,Textron
+hpe,HPE,dlr,Digital Realty
+hubb,Hubbell,duk,Duke Energy
+hubb,Hubbell,exc,Exelon
+hubb,Hubbell,nee,NextEra Energy
+hubb,Hubbell,so,Southern Company
+hwm,Howmet Aerospace,boeing,Boeing
+hwm,Howmet Aerospace,gd,General Dynamics
+hwm,Howmet Aerospace,ge,GE Aerospace
+hwm,Howmet Aerospace,lmt,Lockheed Martin
+hwm,Howmet Aerospace,noc,Northrop Grumman
+hwm,Howmet Aerospace,rtx,RTX
+hwm,Howmet Aerospace,txt,Textron
+hxl,Hexcel,boeing,Boeing
+hxl,Hexcel,gd,General Dynamics
+hxl,Hexcel,ge,GE Aerospace
+hxl,Hexcel,lmt,Lockheed Martin
+hxl,Hexcel,noc,Northrop Grumman
+hxl,Hexcel,rtx,RTX
+hxl,Hexcel,txt,Textron
+ibm,IBM,kd,Kyndryl
+ice,Intercontinental Exchange,blk,BlackRock
+ice,Intercontinental Exchange,gs,Goldman Sachs
+ice,Intercontinental Exchange,ibkr,Interactive Brokers
+ice,Intercontinental Exchange,schw,Charles Schwab
+ilmn,Illumina,dgx,Quest Diagnostics
+ilmn,Illumina,lh,Labcorp
+ilmn,Illumina,ntra,Natera
+ilmn,Illumina,regn,Regeneron
+ilmn,Illumina,vrtx,Vertex Pharmaceuticals
+incy,Incyte,cor,Cencora
+infq,Infleqtion,etn,Eaton
+infq,Infleqtion,lhx,L3Harris
+intc,Intel,amzn,Amazon
+intc,Intel,dell,Dell Technologies
+intc,Intel,msft,Microsoft
+ionq,IonQ,amzn,Amazon
+ionq,IonQ,msft,Microsoft
+iqv,IQVIA Holdings,amgn,Amgen
+iqv,IQVIA Holdings,biib,Biogen
+iqv,IQVIA Holdings,gild,Gilead Sciences
+iqv,IQVIA Holdings,lly,Eli Lilly
+iqv,IQVIA Holdings,mrk,Merck & Co.
+iqv,IQVIA Holdings,nbix,Neurocrine Biosciences
+iqv,IQVIA Holdings,pfe,Pfizer
+iqv,IQVIA Holdings,uthr,United Therapeutics
+itri,Itron,d,Dominion Energy
+itri,Itron,exc,Exelon
+jnj,Johnson & Johnson,cor,Cencora
+jnj,Johnson & Johnson,mck,McKesson
+jpm,JPMorgan Chase,blk,BlackRock
+klac,KLA,intc,Intel
+klac,KLA,mu,Micron
+krmn,Karman Space & Defense,lmt,Lockheed Martin
+ktos,Kratos Defense,rtx,RTX
+leu,Centrus Energy,ceg,Constellation Energy
+leu,Centrus Energy,nee,NextEra Energy
+leu,Centrus Energy,oklo,Oklo
+leu,Centrus Energy,tln,Talen Energy
+leu,Centrus Energy,vst,Vistra
+lh,Labcorp,unh,UnitedHealth
+lhx,L3Harris,rtx,RTX
+lly,Eli Lilly,cah,Cardinal Health
+lly,Eli Lilly,cor,Cencora
+lly,Eli Lilly,mck,McKesson
+lrcx,Lam Research,intc,Intel
+lrcx,Lam Research,mu,Micron
+lunr,Intuitive Machines,lhx,L3Harris
+ma,Mastercard,bac,Bank of America
+ma,Mastercard,c,Citigroup
+ma,Mastercard,jkhy,Jack Henry & Associates
+ma,Mastercard,jpm,JPMorgan Chase
+ma,Mastercard,pypl,PayPal
+ma,Mastercard,usb,U.S. Bancorp
+ma,Mastercard,wfc,Wells Fargo
+ma,Mastercard,xyz,Block
+mchp,Microchip Technology,tsla,Tesla
+mchp,Microchip Technology,vrt,Vertiv
+mck,McKesson,cvs,CVS Health
+mco,Moody’s,bac,Bank of America
+mco,Moody’s,jpm,JPMorgan Chase
+mco,Moody’s,kkr,KKR
+mdt,Medtronic,cah,Cardinal Health
+mod,Modine Manufacturing,dlr,Digital Realty
+mog,Moog,boeing,Boeing
+mog,Moog,lmt,Lockheed Martin
+mog,Moog,txt,Textron
+mpwr,Monolithic Power,amd,AMD
+mpwr,Monolithic Power,nvda,Nvidia
+mrcy,Mercury Systems,lhx,L3Harris
+mrcy,Mercury Systems,lmt,Lockheed Martin
+mrcy,Mercury Systems,noc,Northrop Grumman
+mrcy,Mercury Systems,rtx,RTX
+mrk,Merck & Co.,cor,Cencora
+mrk,Merck & Co.,mck,McKesson
+mrvl,Marvell,amzn,Amazon
+mrvl,Marvell,googl,Alphabet
+mrvl,Marvell,msft,Microsoft
+msci,MSCI,blk,BlackRock
+msft,Microsoft,acn,Accenture
+msft,Microsoft,adbe,Adobe
+msft,Microsoft,cdw,CDW
+msft,Microsoft,ctsh,Cognizant
+msft,Microsoft,cvlt,Commvault Systems
+msft,Microsoft,estc,Elastic
+msft,Microsoft,now,ServiceNow
+msft,Microsoft,snow,Snowflake
+msft,Microsoft,tenb,Tenable
+msft,Microsoft,vrns,Varonis Systems
+mtz,MasTec,nee,NextEra Energy
+mu,Micron,amd,AMD
+mu,Micron,dell,Dell Technologies
+mu,Micron,nvda,Nvidia
+nbix,Neurocrine Biosciences,mck,McKesson
+ncno,nCino,zion,Zions Bancorporation
+ndaq,Nasdaq,gs,Goldman Sachs
+ndaq,Nasdaq,hood,Robinhood
+noc,Northrop Grumman,boeing,Boeing
+noc,Northrop Grumman,lmt,Lockheed Martin
+ntap,NetApp,msft,Microsoft
+ntap,NetApp,tdc,Teradata
+ntra,Natera,unh,UnitedHealth
+nvda,Nvidia,acn,Accenture
+nvda,Nvidia,amzn,Amazon
+nvda,Nvidia,crwv,CoreWeave
+nvda,Nvidia,dell,Dell Technologies
+nvda,Nvidia,googl,Alphabet
+nvda,Nvidia,hpe,HPE
+nvda,Nvidia,ibm,IBM
+nvda,Nvidia,isrg,Intuitive Surgical
+nvda,Nvidia,meta,Meta Platforms
+nvda,Nvidia,mrcy,Mercury Systems
+nvda,Nvidia,msft,Microsoft
+nvda,Nvidia,orcl,Oracle
+nvda,Nvidia,smci,Super Micro
+nvda,Nvidia,tdc,Teradata
+nvda,Nvidia,tsla,Tesla
+nxt,Nextpower,te,T1 Energy
+oklo,Oklo,meta,Meta Platforms
+okta,Okta,net,Cloudflare
+on,ON Semiconductor,tsla,Tesla
+on,ON Semiconductor,vrt,Vertiv
+p,Everpure,meta,Meta Platforms
+pfe,Pfizer,cah,Cardinal Health
+pfe,Pfizer,cor,Cencora
+pfe,Pfizer,mck,McKesson
+podd,Insulet,cvs,CVS Health
+pwr,Quanta Services,aep,American Electric Power
+pwr,Quanta Services,d,Dominion Energy
+pwr,Quanta Services,duk,Duke Energy
+pwr,Quanta Services,exc,Exelon
+pwr,Quanta Services,nee,NextEra Energy
+pwr,Quanta Services,so,Southern Company
+qcom,Qualcomm,msft,Microsoft
+qnt,Quantinuum,msft,Microsoft
+rgti,Rigetti Computing,amzn,Amazon
+rgti,Rigetti Computing,msft,Microsoft
+rmd,ResMed,cah,Cardinal Health
+rok,Rockwell Automation,fslr,First Solar
+rtx,RTX,boeing,Boeing
+rtx,RTX,lmt,Lockheed Martin
+rvty,Revvity,bmy,Bristol Myers Squibb
+smci,Super Micro,crwv,CoreWeave
+smci,Super Micro,rbrk,Rubrik
+snps,Synopsys,amd,AMD
+snps,Synopsys,avgo,Broadcom
+snps,Synopsys,intc,Intel
+snps,Synopsys,nvda,Nvidia
+snps,Synopsys,qcom,Qualcomm
+spacex,SpaceX,asts,AST SpaceMobile
+spacex,SpaceX,gsat,Globalstar
+spacex,SpaceX,irdm,Iridium Communications
+spacex,SpaceX,lunr,Intuitive Machines
+spacex,SpaceX,vsat,Viasat
+spgi,S&P Global,apo,Apollo Global
+spgi,S&P Global,axp,American Express
+spgi,S&P Global,bac,Bank of America
+spgi,S&P Global,blk,BlackRock
+spgi,S&P Global,bx,Blackstone
+spgi,S&P Global,gs,Goldman Sachs
+spgi,S&P Global,jpm,JPMorgan Chase
+spgi,S&P Global,ms,Morgan Stanley
+spgi,S&P Global,schw,Charles Schwab
+ssnc,SS&C Technologies,apo,Apollo Global
+ssnc,SS&C Technologies,bx,Blackstone
+ssnc,SS&C Technologies,kkr,KKR
+stt,State Street,apo,Apollo Global
+stt,State Street,bx,Blackstone
+stt,State Street,schw,Charles Schwab
+stx,Seagate,amzn,Amazon
+stx,Seagate,googl,Alphabet
+syk,Stryker,cah,Cardinal Health
+tdg,TransDigm Group,boeing,Boeing
+tdg,TransDigm Group,lmt,Lockheed Martin
+tdg,TransDigm Group,noc,Northrop Grumman
+tdg,TransDigm Group,rtx,RTX
+tdy,Teledyne Technologies,avav,AeroVironment
+tdy,Teledyne Technologies,boeing,Boeing
+tdy,Teledyne Technologies,hii,Huntington Ingalls Industries
+tdy,Teledyne Technologies,ktos,Kratos Defense
+tdy,Teledyne Technologies,lhx,L3Harris
+tdy,Teledyne Technologies,lmt,Lockheed Martin
+tdy,Teledyne Technologies,noc,Northrop Grumman
+tdy,Teledyne Technologies,rklb,Rocket Lab
+tdy,Teledyne Technologies,rtx,RTX
+ter,Teradyne,intc,Intel
+ter,Teradyne,mu,Micron
+ter,Teradyne,qcom,Qualcomm
+tln,Talen Energy,amzn,Amazon
+tmo,Thermo Fisher Scientific,amgn,Amgen
+tmo,Thermo Fisher Scientific,idxx,IDEXX Laboratories
+tmo,Thermo Fisher Scientific,jnj,Johnson & Johnson
+tmo,Thermo Fisher Scientific,lly,Eli Lilly
+tmo,Thermo Fisher Scientific,mrna,Moderna
+tmo,Thermo Fisher Scientific,pfe,Pfizer
+tru,TransUnion,bac,Bank of America
+tsla,Tesla,run,Sunrun
+txn,Texas Instruments,dell,Dell Technologies
+txn,Texas Instruments,vrt,Vertiv
+uthr,United Therapeutics,ci,The Cigna Group
+uthr,United Therapeutics,cvs,CVS Health
+v,Visa,bac,Bank of America
+v,Visa,c,Citigroup
+v,Visa,hood,Robinhood
+v,Visa,jkhy,Jack Henry & Associates
+v,Visa,jpm,JPMorgan Chase
+v,Visa,pnc,PNC Financial
+v,Visa,pypl,PayPal
+v,Visa,usb,U.S. Bancorp
+v,Visa,wfc,Wells Fargo
+v,Visa,xyz,Block
+virt,Virtu Financial,hood,Robinhood
+virt,Virtu Financial,schw,Charles Schwab
+vrt,Vertiv,dlr,Digital Realty
+vrt,Vertiv,eqix,Equinix
+vrt,Vertiv,msft,Microsoft
+vrtx,Vertex Pharmaceuticals,ci,The Cigna Group
+vrtx,Vertex Pharmaceuticals,mck,McKesson
+vst,Vistra,meta,Meta Platforms
+wat,Waters Corporation,abbv,AbbVie
+wat,Waters Corporation,lly,Eli Lilly
+wdc,Western Digital,amzn,Amazon
+wdc,Western Digital,dell,Dell Technologies
+wst,West Pharmaceutical Services,abbv,AbbVie
+wst,West Pharmaceutical Services,amgn,Amgen
+wst,West Pharmaceutical Services,bmy,Bristol Myers Squibb
+wst,West Pharmaceutical Services,jnj,Johnson & Johnson
+wst,West Pharmaceutical Services,lly,Eli Lilly
+wst,West Pharmaceutical Services,mrk,Merck & Co.
+wst,West Pharmaceutical Services,pfe,Pfizer
+wst,West Pharmaceutical Services,regn,Regeneron
+wwd,Woodward,boeing,Boeing
+wwd,Woodward,ge,GE Aerospace
+wwd,Woodward,gev,GE Vernova
+wwd,Woodward,rtx,RTX
+zbh,Zimmer Biomet,cah,Cardinal Health

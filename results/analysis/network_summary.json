@@ -1,0 +1,316 @@
+{
+    "total_nodes": 250,
+    "total_edges": 445,
+    "network_density": 0.00714859437751004,
+    "average_in_degree": 1.78,
+    "average_out_degree": 1.78,
+    "is_dag": true,
+    "number_of_weakly_connected_components": 16,
+    "number_of_strongly_connected_components": 250,
+    "size_of_largest_weakly_connected_component": 184,
+    "number_of_isolated_companies": 11,
+    "number_of_source_nodes": 104,
+    "number_of_sink_nodes": 89,
+    "weakly_connected_component_size_distribution": {
+        "184": 1,
+        "49": 1,
+        "2": 3,
+        "1": 11
+    },
+    "top_10_betweenness_centrality": [
+        {
+            "rank": 1,
+            "company_id": "amzn",
+            "company_name": "Amazon",
+            "sector": "ai",
+            "country": "USA",
+            "betweenness_centrality": 0.012413196050972967,
+            "in_degree": 16,
+            "out_degree": 16,
+            "total_degree": 32
+        },
+        {
+            "rank": 2,
+            "company_id": "msft",
+            "company_name": "Microsoft",
+            "sector": "ai",
+            "country": "USA",
+            "betweenness_centrality": 0.007149116177973542,
+            "in_degree": 20,
+            "out_degree": 10,
+            "total_degree": 30
+        },
+        {
+            "rank": 3,
+            "company_id": "nvda",
+            "company_name": "Nvidia",
+            "sector": "ai",
+            "country": "USA",
+            "betweenness_centrality": 0.0047448370029015184,
+            "in_degree": 6,
+            "out_degree": 15,
+            "total_degree": 21
+        },
+        {
+            "rank": 4,
+            "company_id": "eqix",
+            "company_name": "Equinix",
+            "sector": "ai",
+            "country": "USA",
+            "betweenness_centrality": 0.0037083819147557973,
+            "in_degree": 6,
+            "out_degree": 4,
+            "total_degree": 10
+        },
+        {
+            "rank": 5,
+            "company_id": "intc",
+            "company_name": "Intel",
+            "sector": "ai",
+            "country": "USA",
+            "betweenness_centrality": 0.002606868847638377,
+            "in_degree": 7,
+            "out_degree": 3,
+            "total_degree": 10
+        },
+        {
+            "rank": 6,
+            "company_id": "mu",
+            "company_name": "Micron",
+            "sector": "ai",
+            "country": "USA",
+            "betweenness_centrality": 0.0024790020296238716,
+            "in_degree": 5,
+            "out_degree": 3,
+            "total_degree": 8
+        },
+        {
+            "rank": 7,
+            "company_id": "googl",
+            "company_name": "Alphabet",
+            "sector": "ai",
+            "country": "USA",
+            "betweenness_centrality": 0.0023924422729319733,
+            "in_degree": 6,
+            "out_degree": 4,
+            "total_degree": 10
+        },
+        {
+            "rank": 8,
+            "company_id": "amd",
+            "company_name": "AMD",
+            "sector": "ai",
+            "country": "USA",
+            "betweenness_centrality": 0.001892027917095931,
+            "in_degree": 4,
+            "out_degree": 7,
+            "total_degree": 11
+        },
+        {
+            "rank": 9,
+            "company_id": "ndaq",
+            "company_name": "Nasdaq",
+            "sector": "finans",
+            "country": "USA",
+            "betweenness_centrality": 0.0017801621231469658,
+            "in_degree": 1,
+            "out_degree": 2,
+            "total_degree": 3
+        },
+        {
+            "rank": 10,
+            "company_id": "cme",
+            "company_name": "CME Group",
+            "sector": "finans",
+            "country": "USA",
+            "betweenness_centrality": 0.0016853126792885829,
+            "in_degree": 1,
+            "out_degree": 6,
+            "total_degree": 7
+        }
+    ],
+    "top_10_out_degree": [
+        {
+            "rank": 1,
+            "company_id": "amzn",
+            "company_name": "Amazon",
+            "sector": "ai",
+            "out_degree": 16,
+            "out_degree_centrality": 0.0642570281124498,
+            "betweenness_centrality": 0.012413196050972967
+        },
+        {
+            "rank": 2,
+            "company_id": "nvda",
+            "company_name": "Nvidia",
+            "sector": "ai",
+            "out_degree": 15,
+            "out_degree_centrality": 0.06024096385542168,
+            "betweenness_centrality": 0.0047448370029015184
+        },
+        {
+            "rank": 3,
+            "company_id": "msft",
+            "company_name": "Microsoft",
+            "sector": "ai",
+            "out_degree": 10,
+            "out_degree_centrality": 0.040160642570281124,
+            "betweenness_centrality": 0.007149116177973542
+        },
+        {
+            "rank": 4,
+            "company_id": "v",
+            "company_name": "Visa",
+            "sector": "finans",
+            "out_degree": 10,
+            "out_degree_centrality": 0.040160642570281124,
+            "betweenness_centrality": 0.0
+        },
+        {
+            "rank": 5,
+            "company_id": "spgi",
+            "company_name": "S&P Global",
+            "sector": "finans",
+            "out_degree": 9,
+            "out_degree_centrality": 0.03614457831325301,
+            "betweenness_centrality": 0.0
+        },
+        {
+            "rank": 6,
+            "company_id": "tdy",
+            "company_name": "Teledyne Technologies",
+            "sector": "forsvar",
+            "out_degree": 9,
+            "out_degree_centrality": 0.03614457831325301,
+            "betweenness_centrality": 0.0
+        },
+        {
+            "rank": 7,
+            "company_id": "gev",
+            "company_name": "GE Vernova",
+            "sector": "energi",
+            "out_degree": 8,
+            "out_degree_centrality": 0.0321285140562249,
+            "betweenness_centrality": 0.0012631169840652933
+        },
+        {
+            "rank": 8,
+            "company_id": "crl",
+            "company_name": "Charles River Laboratories",
+            "sector": "medicin",
+            "out_degree": 8,
+            "out_degree_centrality": 0.0321285140562249,
+            "betweenness_centrality": 0.0
+        },
+        {
+            "rank": 9,
+            "company_id": "iqv",
+            "company_name": "IQVIA Holdings",
+            "sector": "medicin",
+            "out_degree": 8,
+            "out_degree_centrality": 0.0321285140562249,
+            "betweenness_centrality": 0.0
+        },
+        {
+            "rank": 10,
+            "company_id": "ma",
+            "company_name": "Mastercard",
+            "sector": "finans",
+            "out_degree": 8,
+            "out_degree_centrality": 0.0321285140562249,
+            "betweenness_centrality": 0.0
+        }
+    ],
+    "top_10_in_degree": [
+        {
+            "rank": 1,
+            "company_id": "msft",
+            "company_name": "Microsoft",
+            "sector": "ai",
+            "in_degree": 20,
+            "in_degree_centrality": 0.08032128514056225,
+            "betweenness_centrality": 0.007149116177973542
+        },
+        {
+            "rank": 2,
+            "company_id": "amzn",
+            "company_name": "Amazon",
+            "sector": "ai",
+            "in_degree": 16,
+            "in_degree_centrality": 0.0642570281124498,
+            "betweenness_centrality": 0.012413196050972967
+        },
+        {
+            "rank": 3,
+            "company_id": "lmt",
+            "company_name": "Lockheed Martin",
+            "sector": "forsvar",
+            "in_degree": 14,
+            "in_degree_centrality": 0.056224899598393566,
+            "betweenness_centrality": 0.0
+        },
+        {
+            "rank": 4,
+            "company_id": "cah",
+            "company_name": "Cardinal Health",
+            "sector": "medicin",
+            "in_degree": 12,
+            "in_degree_centrality": 0.048192771084337345,
+            "betweenness_centrality": 0.0005041672064602495
+        },
+        {
+            "rank": 5,
+            "company_id": "boeing",
+            "company_name": "Boeing",
+            "sector": "forsvar",
+            "in_degree": 12,
+            "in_degree_centrality": 0.048192771084337345,
+            "betweenness_centrality": 0.0
+        },
+        {
+            "rank": 6,
+            "company_id": "cor",
+            "company_name": "Cencora",
+            "sector": "medicin",
+            "in_degree": 11,
+            "in_degree_centrality": 0.04417670682730923,
+            "betweenness_centrality": 0.00029148853478429845
+        },
+        {
+            "rank": 7,
+            "company_id": "rtx",
+            "company_name": "RTX",
+            "sector": "forsvar",
+            "in_degree": 10,
+            "in_degree_centrality": 0.040160642570281124,
+            "betweenness_centrality": 0.00029958543852830677
+        },
+        {
+            "rank": 8,
+            "company_id": "mck",
+            "company_name": "McKesson",
+            "sector": "medicin",
+            "in_degree": 10,
+            "in_degree_centrality": 0.040160642570281124,
+            "betweenness_centrality": 0.0002164572267564883
+        },
+        {
+            "rank": 9,
+            "company_id": "meta",
+            "company_name": "Meta Platforms",
+            "sector": "ai",
+            "in_degree": 9,
+            "in_degree_centrality": 0.03614457831325301,
+            "betweenness_centrality": 0.0
+        },
+        {
+            "rank": 10,
+            "company_id": "noc",
+            "company_name": "Northrop Grumman",
+            "sector": "forsvar",
+            "in_degree": 8,
+            "in_degree_centrality": 0.0321285140562249,
+            "betweenness_centrality": 0.00011335665241611608
+        }
+    ]
+}

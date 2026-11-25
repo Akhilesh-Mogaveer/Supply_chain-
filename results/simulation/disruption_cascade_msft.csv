@@ -1,0 +1,11 @@
+company_id,company_name,sector,country,cascade_depth,exposure_type,is_direct_customer,total_recorded_suppliers,alternative_suppliers_count,unaffected_suppliers_count,has_alternative_suppliers,is_sole_dependent,redundancy_status,immediate_supplier_in_cascade,propagation_path,alternative_suppliers_list,unaffected_suppliers_list
+adbe,Adobe,ai,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Microsoft,Microsoft -> Adobe,None,None
+ctsh,Cognizant,ai,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Microsoft,Microsoft -> Cognizant,None,None
+cvlt,Commvault Systems,forsvar,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Microsoft,Microsoft -> Commvault Systems,None,None
+now,ServiceNow,ai,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Microsoft,Microsoft -> ServiceNow,None,None
+vrns,Varonis Systems,forsvar,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Microsoft,Microsoft -> Varonis Systems,None,None
+acn,Accenture,ai,Ireland,1,Direct Customer (Tier 1),True,2,1,1,True,False,Multi-Sourced (Buffered),Microsoft,Microsoft -> Accenture,Nvidia,Nvidia
+snow,Snowflake,ai,USA,1,Direct Customer (Tier 1),True,2,1,1,True,False,Multi-Sourced (Buffered),Microsoft,Microsoft -> Snowflake,Amazon,Amazon
+tenb,Tenable,forsvar,USA,1,Direct Customer (Tier 1),True,2,1,1,True,False,Multi-Sourced (Buffered),Microsoft,Microsoft -> Tenable,Amazon,Amazon
+cdw,CDW,ai,USA,1,Direct Customer (Tier 1),True,3,2,2,True,False,Multi-Sourced (Buffered),Microsoft,Microsoft -> CDW,Cisco; Dell Technologies,Cisco; Dell Technologies
+estc,Elastic,forsvar,USA,1,Direct Customer (Tier 1),True,3,2,2,True,False,Multi-Sourced (Buffered),Microsoft,Microsoft -> Elastic,Amazon; Alphabet,Amazon; Alphabet

@@ -1,0 +1,149 @@
+{
+    "amzn": {
+        "target_company_id": "amzn",
+        "target_company_name": "Amazon",
+        "target_sector": "ai",
+        "target_country": "USA",
+        "total_direct_customers": 16,
+        "total_downstream_reachable": 21,
+        "total_indirectly_exposed": 5,
+        "maximum_cascade_depth": 3,
+        "companies_with_alternative_suppliers": 9,
+        "companies_with_unaffected_suppliers": 7,
+        "solely_dependent_companies": 12,
+        "percentage_of_network_exposed": 8.4,
+        "tier_distribution": {
+            "1": 16,
+            "2": 3,
+            "3": 2
+        },
+        "tier_sole_dependency_distribution": {
+            "1": 12
+        },
+        "tier_with_alternative_distribution": {
+            "1": 4,
+            "2": 3,
+            "3": 2
+        },
+        "direct_customers_list": [
+            "Salesforce",
+            "CrowdStrike",
+            "Datadog",
+            "Duolingo",
+            "Elastic",
+            "Fortinet",
+            "Intuit",
+            "MongoDB",
+            "Nasdaq",
+            "Palantir",
+            "Rapid7",
+            "SentinelOne",
+            "SailPoint",
+            "Snowflake",
+            "Tenable",
+            "Workday"
+        ],
+        "assumptions": {
+            "structural_reach_only": "Cascade reach is determined strictly by topological directed paths. A reachable downstream firm has structural exposure, but not necessarily operational failure.",
+            "absence_of_flow_data": "The Sectivia dataset lacks transaction volumes, inventory buffer stock (days of inventory), order frequency, component criticality, and contract terms. All relationships are treated as unweighted binary dependencies.",
+            "no_instantaneous_rerouting": "The model reports existing recorded alternative suppliers. It does not model dynamic spot-market contracting, supplier switching costs, or qualified replacement suppliers.",
+            "non_deterministic_impact": "Firms with alternative recorded suppliers may absorb or mitigate the disruption. Firms with sole dependency on the disrupted supplier represent the highest structural risk.",
+            "no_financial_claims": "This simulation does not estimate dollar financial losses, revenue impacts, or stock price changes."
+        }
+    },
+    "msft": {
+        "target_company_id": "msft",
+        "target_company_name": "Microsoft",
+        "target_sector": "ai",
+        "target_country": "USA",
+        "total_direct_customers": 10,
+        "total_downstream_reachable": 10,
+        "total_indirectly_exposed": 0,
+        "maximum_cascade_depth": 1,
+        "companies_with_alternative_suppliers": 5,
+        "companies_with_unaffected_suppliers": 5,
+        "solely_dependent_companies": 5,
+        "percentage_of_network_exposed": 4.0,
+        "tier_distribution": {
+            "1": 10
+        },
+        "tier_sole_dependency_distribution": {
+            "1": 5
+        },
+        "tier_with_alternative_distribution": {
+            "1": 5
+        },
+        "direct_customers_list": [
+            "Accenture",
+            "Adobe",
+            "CDW",
+            "Cognizant",
+            "Commvault Systems",
+            "Elastic",
+            "ServiceNow",
+            "Snowflake",
+            "Tenable",
+            "Varonis Systems"
+        ],
+        "assumptions": {
+            "structural_reach_only": "Cascade reach is determined strictly by topological directed paths. A reachable downstream firm has structural exposure, but not necessarily operational failure.",
+            "absence_of_flow_data": "The Sectivia dataset lacks transaction volumes, inventory buffer stock (days of inventory), order frequency, component criticality, and contract terms. All relationships are treated as unweighted binary dependencies.",
+            "no_instantaneous_rerouting": "The model reports existing recorded alternative suppliers. It does not model dynamic spot-market contracting, supplier switching costs, or qualified replacement suppliers.",
+            "non_deterministic_impact": "Firms with alternative recorded suppliers may absorb or mitigate the disruption. Firms with sole dependency on the disrupted supplier represent the highest structural risk.",
+            "no_financial_claims": "This simulation does not estimate dollar financial losses, revenue impacts, or stock price changes."
+        }
+    },
+    "nvda": {
+        "target_company_id": "nvda",
+        "target_company_name": "Nvidia",
+        "target_sector": "ai",
+        "target_country": "USA",
+        "total_direct_customers": 15,
+        "total_downstream_reachable": 59,
+        "total_indirectly_exposed": 44,
+        "maximum_cascade_depth": 4,
+        "companies_with_alternative_suppliers": 55,
+        "companies_with_unaffected_suppliers": 26,
+        "solely_dependent_companies": 4,
+        "percentage_of_network_exposed": 23.6,
+        "tier_distribution": {
+            "1": 15,
+            "2": 33,
+            "3": 8,
+            "4": 3
+        },
+        "tier_sole_dependency_distribution": {
+            "1": 4
+        },
+        "tier_with_alternative_distribution": {
+            "1": 11,
+            "2": 33,
+            "3": 8,
+            "4": 3
+        },
+        "direct_customers_list": [
+            "Accenture",
+            "Amazon",
+            "CoreWeave",
+            "Dell Technologies",
+            "Alphabet",
+            "HPE",
+            "IBM",
+            "Intuitive Surgical",
+            "Meta Platforms",
+            "Mercury Systems",
+            "Microsoft",
+            "Oracle",
+            "Super Micro",
+            "Teradata",
+            "Tesla"
+        ],
+        "assumptions": {
+            "structural_reach_only": "Cascade reach is determined strictly by topological directed paths. A reachable downstream firm has structural exposure, but not necessarily operational failure.",
+            "absence_of_flow_data": "The Sectivia dataset lacks transaction volumes, inventory buffer stock (days of inventory), order frequency, component criticality, and contract terms. All relationships are treated as unweighted binary dependencies.",
+            "no_instantaneous_rerouting": "The model reports existing recorded alternative suppliers. It does not model dynamic spot-market contracting, supplier switching costs, or qualified replacement suppliers.",
+            "non_deterministic_impact": "Firms with alternative recorded suppliers may absorb or mitigate the disruption. Firms with sole dependency on the disrupted supplier represent the highest structural risk.",
+            "no_financial_claims": "This simulation does not estimate dollar financial losses, revenue impacts, or stock price changes."
+        }
+    }
+}

@@ -1,0 +1,251 @@
+id,name,country,sector,segment
+a,Agilent Technologies,USA,medicin,Life science tools
+abbv,AbbVie,USA,medicin,Big pharma
+abt,Abbott Laboratories,USA,medicin,Diagnostics
+acn,Accenture,Ireland,ai,IT consultants & integrators
+adbe,Adobe,USA,ai,AI software & productivity
+adi,Analog Devices,USA,ai,Chips & accelerators
+aep,American Electric Power,USA,energi,Utilities & power producers
+alab,Astera Labs,USA,ai,Data centers
+algn,Align Technology,USA,medicin,Medtech & devices
+alny,Alnylam Pharmaceuticals,USA,medicin,Biotech & innovation
+amat,Applied Materials,USA,ai,Semiconductor equipment & IP
+amd,AMD,USA,ai,Chips & accelerators
+amgn,Amgen,USA,medicin,Biotech & innovation
+ampx,Amprius Technologies,USA,energi,Batteries & energy storage
+amzn,Amazon,USA,ai,Cloud platforms
+anet,Arista Networks,USA,ai,Data centers
+aph,Amphenol,USA,ai,Data centers
+apo,Apollo Global,USA,finans,Asset & alternative managers
+app,AppLovin,USA,ai,AI software & productivity
+arm,Arm Holdings,United Kingdom,ai,Chips & accelerators
+asts,AST SpaceMobile,USA,forsvar,Space industry & satellites
+avav,AeroVironment,USA,forsvar,Drones & autonomous systems
+avgo,Broadcom,USA,ai,Chips & accelerators
+axon,Axon Enterprise,USA,forsvar,Dual-use technology
+axp,American Express,USA,finans,Payment rails & networks
+bac,Bank of America,USA,finans,Banks
+bah,Booz Allen Hamilton,USA,forsvar,Communications & defense data
+bax,Baxter International,USA,medicin,Medtech & devices
+bdx,Becton Dickinson,USA,medicin,Medtech & devices
+be,Bloom Energy,USA,energi,Power equipment
+biib,Biogen,USA,medicin,Biotech & innovation
+bio,Bio-Rad Laboratories,USA,medicin,Diagnostics
+blk,BlackRock,USA,finans,Asset & alternative managers
+bmrn,BioMarin Pharmaceutical,USA,medicin,Biotech & innovation
+bmy,Bristol Myers Squibb,USA,medicin,Big pharma
+bny,BNY,USA,finans,Banks
+boeing,Boeing,USA,forsvar,Military platforms
+br,Broadridge,USA,finans,Exchanges & market data
+bsx,Boston Scientific,USA,medicin,Medtech & devices
+bwxt,BWX Technologies,USA,energi,Nuclear energy & uranium
+bx,Blackstone,USA,finans,Asset & alternative managers
+c,Citigroup,USA,finans,Banks
+caci,CACI International,USA,forsvar,Communications & defense data
+cah,Cardinal Health,USA,medicin,Distribution & pharmacy infrastructure
+carr,Carrier Global,USA,ai,"Cooling, power & data center infrastructure"
+cdns,Cadence Design Systems,USA,ai,Semiconductor equipment & IP
+cdw,CDW,USA,ai,IT consultants & integrators
+ceg,Constellation Energy,USA,energi,Utilities & power producers
+ci,The Cigna Group,USA,medicin,Distribution & pharmacy infrastructure
+cien,Ciena,USA,ai,Data centers
+cme,CME Group,USA,finans,Exchanges & market data
+cohr,Coherent,USA,ai,Data centers
+coin,Coinbase,USA,finans,Brokers & fintech
+cor,Cencora,USA,medicin,Distribution & pharmacy infrastructure
+crdo,Credo Technology,USA,ai,Data centers
+crl,Charles River Laboratories,USA,medicin,CDMO & pharma manufacturing
+crm,Salesforce,USA,ai,AI software & productivity
+crwd,CrowdStrike,USA,forsvar,Endpoint security
+crwv,CoreWeave,USA,ai,Cloud platforms
+csco,Cisco,USA,ai,Data centers
+ctsh,Cognizant,USA,ai,IT consultants & integrators
+cvlt,Commvault Systems,USA,forsvar,Incident response & recovery
+cvs,CVS Health,USA,medicin,Distribution & pharmacy infrastructure
+cw,Curtiss-Wright,USA,energi,Nuclear energy & uranium
+d,Dominion Energy,USA,energi,Utilities & power producers
+dco,Ducommun,USA,forsvar,"Radar, sensors & electronics"
+ddog,Datadog,USA,ai,"Data, analytics & enterprise AI"
+dell,Dell Technologies,USA,ai,Data centers
+dgx,Quest Diagnostics,USA,medicin,Diagnostics
+dhr,Danaher,USA,medicin,Life science tools
+dlr,Digital Realty,USA,ai,Data centers
+drs,Leonardo DRS,USA,forsvar,"Radar, sensors & electronics"
+duk,Duke Energy,USA,energi,Utilities & power producers
+duol,Duolingo,USA,ai,AI software & productivity
+dxcm,DexCom,USA,medicin,Diabetes & metabolic disease
+eme,EMCOR Group,USA,ai,"Cooling, power & data center infrastructure"
+emr,Emerson Electric,USA,energi,Grid & electrification
+enph,Enphase Energy,USA,energi,Solar & wind
+entg,Entegris,USA,ai,Semiconductor equipment & IP
+eqix,Equinix,USA,ai,Data centers
+estc,Elastic,USA,forsvar,"SOC, XDR & threat detection"
+etn,Eaton,USA,energi,Power equipment
+etr,Entergy,USA,energi,Utilities & power producers
+ew,Edwards Lifesciences,USA,medicin,Medtech & devices
+exc,Exelon,USA,energi,Utilities & power producers
+fico,Fair Isaac (FICO),USA,finans,Exchanges & market data
+fis,FIS,USA,finans,Payment rails & networks
+fisv,Fiserv,USA,finans,Payment rails & networks
+fitb,Fifth Third Bancorp,USA,finans,Banks
+fix,Comfort Systems USA,USA,ai,"Cooling, power & data center infrastructure"
+flnc,Fluence Energy,USA,energi,Batteries & energy storage
+fly,Firefly Aerospace,USA,forsvar,Space industry & satellites
+form,FormFactor,USA,quantum,"Enablers, test & components"
+fslr,First Solar,USA,energi,Solar & wind
+ftnt,Fortinet,USA,forsvar,Network security
+gd,General Dynamics,USA,forsvar,Defense integrators
+ge,GE Aerospace,USA,forsvar,Dual-use technology
+gehc,GE HealthCare,USA,medicin,Medtech & devices
+gev,GE Vernova,USA,energi,Power equipment
+gild,Gilead Sciences,USA,medicin,Biotech & innovation
+gnrc,Generac,USA,energi,Power equipment
+googl,Alphabet,USA,ai,Cloud platforms
+gpn,Global Payments,USA,finans,Payment rails & networks
+gs,Goldman Sachs,USA,finans,Investment banking & trading
+gsat,Globalstar,USA,forsvar,Space industry & satellites
+hei,HEICO,USA,forsvar,Military platforms
+hii,Huntington Ingalls Industries,USA,forsvar,Military platforms
+hon,Honeywell,USA,forsvar,Dual-use technology
+hood,Robinhood,USA,finans,Brokers & fintech
+hpe,HPE,USA,ai,Data centers
+hubb,Hubbell,USA,energi,Grid & electrification
+hwm,Howmet Aerospace,USA,forsvar,Military platforms
+hxl,Hexcel,USA,forsvar,Military platforms
+ibkr,Interactive Brokers,USA,finans,Brokers & fintech
+ibm,IBM,USA,ai,IT consultants & integrators
+ice,Intercontinental Exchange,USA,finans,Exchanges & market data
+idxx,IDEXX Laboratories,USA,medicin,Diagnostics
+ilmn,Illumina,USA,medicin,Life science tools
+incy,Incyte,USA,medicin,Biotech & innovation
+infq,Infleqtion,USA,quantum,Quantum hardware & platforms
+intc,Intel,USA,ai,Chips & accelerators
+intu,Intuit,USA,ai,AI software & productivity
+ionq,IonQ,USA,quantum,Quantum hardware & platforms
+iqv,IQVIA Holdings,USA,medicin,CDMO & pharma manufacturing
+irdm,Iridium Communications,USA,forsvar,Space industry & satellites
+isrg,Intuitive Surgical,USA,medicin,Medtech & devices
+itri,Itron,USA,energi,Grid & electrification
+jkhy,Jack Henry & Associates,USA,finans,Payment rails & networks
+jnj,Johnson & Johnson,USA,medicin,Big pharma
+jpm,JPMorgan Chase,USA,finans,Banks
+kd,Kyndryl,USA,ai,IT consultants & integrators
+keys,Keysight Technologies,USA,quantum,"Enablers, test & components"
+kkr,KKR,USA,finans,Asset & alternative managers
+klac,KLA,USA,ai,Semiconductor equipment & IP
+krmn,Karman Space & Defense,USA,forsvar,Missiles & ammunition
+ktos,Kratos Defense,USA,forsvar,Drones & autonomous systems
+ldos,Leidos,USA,forsvar,Communications & defense data
+leu,Centrus Energy,USA,energi,Nuclear energy & uranium
+lh,Labcorp,USA,medicin,Diagnostics
+lhx,L3Harris,USA,forsvar,Defense integrators
+lly,Eli Lilly,USA,medicin,Diabetes & metabolic disease
+lmt,Lockheed Martin,USA,forsvar,Defense integrators
+lrcx,Lam Research,USA,ai,Semiconductor equipment & IP
+lunr,Intuitive Machines,USA,forsvar,Space industry & satellites
+ma,Mastercard,USA,finans,Payment rails & networks
+mchp,Microchip Technology,USA,ai,Chips & accelerators
+mck,McKesson,USA,medicin,Distribution & pharmacy infrastructure
+mco,Moody’s,USA,finans,Exchanges & market data
+mdb,MongoDB,USA,ai,"Data, analytics & enterprise AI"
+mdt,Medtronic,USA,medicin,Medtech & devices
+meta,Meta Platforms,USA,ai,AI software & productivity
+mod,Modine Manufacturing,USA,ai,"Cooling, power & data center infrastructure"
+mog,Moog,USA,forsvar,Military platforms
+mpwr,Monolithic Power,USA,ai,Chips & accelerators
+mrcy,Mercury Systems,USA,forsvar,"Radar, sensors & electronics"
+mrk,Merck & Co.,USA,medicin,Big pharma
+mrna,Moderna,USA,medicin,Biotech & innovation
+mrvl,Marvell,USA,ai,Chips & accelerators
+ms,Morgan Stanley,USA,finans,Investment banking & trading
+msci,MSCI,USA,finans,Exchanges & market data
+msft,Microsoft,USA,ai,Cloud platforms
+msi,Motorola Solutions,USA,forsvar,Dual-use technology
+mtz,MasTec,USA,energi,Grid & electrification
+mu,Micron,USA,ai,Chips & accelerators
+nbix,Neurocrine Biosciences,USA,medicin,Biotech & innovation
+ncno,nCino,USA,finans,Brokers & fintech
+ndaq,Nasdaq,USA,finans,Exchanges & market data
+nee,NextEra Energy,USA,energi,Utilities & power producers
+net,Cloudflare,USA,forsvar,Cloud security
+noc,Northrop Grumman,USA,forsvar,Defense integrators
+now,ServiceNow,USA,ai,AI software & productivity
+nrg,NRG Energy,USA,energi,Utilities & power producers
+ntap,NetApp,USA,ai,Data centers
+ntra,Natera,USA,medicin,Diagnostics
+nvda,Nvidia,USA,ai,Chips & accelerators
+nxt,Nextpower,USA,energi,Solar & wind
+oklo,Oklo,USA,energi,Nuclear energy & uranium
+okta,Okta,USA,forsvar,Identity & access management
+on,ON Semiconductor,USA,ai,Chips & accelerators
+orcl,Oracle,USA,ai,Cloud platforms
+p,Everpure,USA,ai,Data centers
+panw,Palo Alto Networks,USA,forsvar,Network security
+pfe,Pfizer,USA,medicin,Big pharma
+pltr,Palantir,USA,ai,"Data, analytics & enterprise AI"
+pnc,PNC Financial,USA,finans,Banks
+podd,Insulet,USA,medicin,Diabetes & metabolic disease
+pwr,Quanta Services,USA,energi,Grid & electrification
+pypl,PayPal,USA,finans,Payment rails & networks
+qbts,D-Wave Quantum,Canada,quantum,Quantum hardware & platforms
+qcom,Qualcomm,USA,ai,Chips & accelerators
+qlys,Qualys,USA,forsvar,Vulnerability management
+qnt,Quantinuum,USA,quantum,Quantum hardware & platforms
+qubt,Quantum Computing Inc.,USA,quantum,Quantum hardware & platforms
+rbrk,Rubrik,USA,forsvar,Incident response & recovery
+regn,Regeneron,USA,medicin,Biotech & innovation
+rgti,Rigetti Computing,USA,quantum,Quantum hardware & platforms
+rklb,Rocket Lab,USA,forsvar,Space industry & satellites
+rmd,ResMed,USA,medicin,Medtech & devices
+rok,Rockwell Automation,USA,energi,Power equipment
+rpd,Rapid7,USA,forsvar,Vulnerability management
+rtx,RTX,USA,forsvar,Defense integrators
+run,Sunrun,USA,energi,Solar & wind
+rvty,Revvity,USA,medicin,Life science tools
+s,SentinelOne,USA,forsvar,Endpoint security
+sail,SailPoint,USA,forsvar,Identity & access management
+schw,Charles Schwab,USA,finans,Brokers & fintech
+smci,Super Micro,USA,ai,Data centers
+smr,NuScale Power,USA,energi,Nuclear energy & uranium
+snow,Snowflake,USA,ai,"Data, analytics & enterprise AI"
+snps,Synopsys,USA,ai,Semiconductor equipment & IP
+so,Southern Company,USA,energi,Utilities & power producers
+spacex,SpaceX,USA,forsvar,Space industry & satellites
+spgi,S&P Global,USA,finans,Exchanges & market data
+ssnc,SS&C Technologies,USA,finans,Exchanges & market data
+stt,State Street,USA,finans,Banks
+stx,Seagate,USA,ai,Chips & accelerators
+syk,Stryker,USA,medicin,Medtech & devices
+tdc,Teradata,USA,ai,"Data, analytics & enterprise AI"
+tdg,TransDigm Group,USA,forsvar,Dual-use technology
+tdy,Teledyne Technologies,USA,forsvar,Dual-use technology
+te,T1 Energy,USA,energi,Solar & wind
+tenb,Tenable,USA,forsvar,Vulnerability management
+ter,Teradyne,USA,ai,Semiconductor equipment & IP
+tln,Talen Energy,USA,energi,Utilities & power producers
+tmo,Thermo Fisher Scientific,USA,medicin,Life science tools
+tru,TransUnion,USA,finans,Exchanges & market data
+tsla,Tesla,USA,ai,AI software & productivity
+txn,Texas Instruments,USA,ai,Chips & accelerators
+txt,Textron,USA,forsvar,Military platforms
+unh,UnitedHealth,USA,medicin,Distribution & pharmacy infrastructure
+usb,U.S. Bancorp,USA,finans,Banks
+uthr,United Therapeutics,USA,medicin,Biotech & innovation
+v,Visa,USA,finans,Payment rails & networks
+virt,Virtu Financial,USA,finans,Investment banking & trading
+vrns,Varonis Systems,USA,forsvar,Data security
+vrt,Vertiv,USA,ai,"Cooling, power & data center infrastructure"
+vrtx,Vertex Pharmaceuticals,USA,medicin,Biotech & innovation
+vsat,Viasat,USA,forsvar,Space industry & satellites
+vst,Vistra,USA,energi,Utilities & power producers
+wat,Waters Corporation,USA,medicin,Life science tools
+wday,Workday,USA,ai,AI software & productivity
+wdc,Western Digital,USA,ai,Chips & accelerators
+wfc,Wells Fargo,USA,finans,Banks
+wst,West Pharmaceutical Services,USA,medicin,CDMO & pharma manufacturing
+wwd,Woodward,USA,forsvar,Military platforms
+xyz,Block,USA,finans,Brokers & fintech
+zbh,Zimmer Biomet,USA,medicin,Medtech & devices
+zion,Zions Bancorporation,USA,finans,Banks
+zs,Zscaler,USA,forsvar,Cloud security
+zts,Zoetis,USA,medicin,Big pharma

@@ -1,0 +1,22 @@
+company_id,company_name,sector,country,cascade_depth,exposure_type,is_direct_customer,total_recorded_suppliers,alternative_suppliers_count,unaffected_suppliers_count,has_alternative_suppliers,is_sole_dependent,redundancy_status,immediate_supplier_in_cascade,propagation_path,alternative_suppliers_list,unaffected_suppliers_list
+crm,Salesforce,ai,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Amazon,Amazon -> Salesforce,None,None
+crwd,CrowdStrike,forsvar,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Amazon,Amazon -> CrowdStrike,None,None
+ddog,Datadog,ai,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Amazon,Amazon -> Datadog,None,None
+duol,Duolingo,ai,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Amazon,Amazon -> Duolingo,None,None
+intu,Intuit,ai,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Amazon,Amazon -> Intuit,None,None
+mdb,MongoDB,ai,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Amazon,Amazon -> MongoDB,None,None
+ndaq,Nasdaq,finans,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Amazon,Amazon -> Nasdaq,None,None
+pltr,Palantir,ai,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Amazon,Amazon -> Palantir,None,None
+rpd,Rapid7,forsvar,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Amazon,Amazon -> Rapid7,None,None
+s,SentinelOne,forsvar,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Amazon,Amazon -> SentinelOne,None,None
+sail,SailPoint,forsvar,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Amazon,Amazon -> SailPoint,None,None
+wday,Workday,ai,USA,1,Direct Customer (Tier 1),True,1,0,0,False,True,Sole Dependency,Amazon,Amazon -> Workday,None,None
+ftnt,Fortinet,forsvar,USA,1,Direct Customer (Tier 1),True,2,1,1,True,False,Multi-Sourced (Buffered),Amazon,Amazon -> Fortinet,Equinix,Equinix
+snow,Snowflake,ai,USA,1,Direct Customer (Tier 1),True,2,1,1,True,False,Multi-Sourced (Buffered),Amazon,Amazon -> Snowflake,Microsoft,Microsoft
+tenb,Tenable,forsvar,USA,1,Direct Customer (Tier 1),True,2,1,1,True,False,Multi-Sourced (Buffered),Amazon,Amazon -> Tenable,Microsoft,Microsoft
+estc,Elastic,forsvar,USA,1,Direct Customer (Tier 1),True,3,2,2,True,False,Multi-Sourced (Buffered),Amazon,Amazon -> Elastic,Alphabet; Microsoft,Alphabet; Microsoft
+ncno,nCino,finans,USA,2,Indirect Exposure (Tier 2),False,1,1,0,True,False,Multi-Sourced (Cascade Constrained),Salesforce,Amazon -> Salesforce -> nCino,Salesforce,None
+hood,Robinhood,finans,USA,2,Indirect Exposure (Tier 2),False,4,4,3,True,False,Multi-Sourced (Buffered),Nasdaq,Amazon -> Nasdaq -> Robinhood,CME Group; Nasdaq; Visa; Virtu Financial,CME Group; Visa; Virtu Financial
+gs,Goldman Sachs,finans,USA,2,Indirect Exposure (Tier 2),False,5,5,4,True,False,Multi-Sourced (Buffered),Nasdaq,Amazon -> Nasdaq -> Goldman Sachs,Broadridge; CME Group; Intercontinental Exchange; Nasdaq; S&P Global,Broadridge; CME Group; Intercontinental Exchange; S&P Global
+zion,Zions Bancorporation,finans,USA,3,Indirect Exposure (Tier 3),False,1,1,0,True,False,Multi-Sourced (Cascade Constrained),nCino,Amazon -> Salesforce -> nCino -> Zions Bancorporation,nCino,None
+kkr,KKR,finans,USA,3,Indirect Exposure (Tier 3),False,4,4,3,True,False,Multi-Sourced (Buffered),Goldman Sachs,Amazon -> Nasdaq -> Goldman Sachs -> KKR,Broadridge; Goldman Sachs; Moody’s; SS&C Technologies,Broadridge; Moody’s; SS&C Technologies

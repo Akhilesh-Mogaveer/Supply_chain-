@@ -1,0 +1,4 @@
+target_id,target_name,sector,direct_customers,downstream_reachable,indirectly_exposed,max_cascade_depth,with_alternative_suppliers,with_unaffected_suppliers,solely_dependent,pct_network_exposed
+amzn,Amazon,ai,16,21,5,3,9,7,12,8.4
+msft,Microsoft,ai,10,10,0,1,5,5,5,4.0
+nvda,Nvidia,ai,15,59,44,4,55,26,4,23.6

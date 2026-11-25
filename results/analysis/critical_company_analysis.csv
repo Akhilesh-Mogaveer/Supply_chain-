@@ -1,0 +1,251 @@
+company_id,company_name,sector,country,structural_role,betweenness_centrality,betweenness_rank,out_degree,out_degree_rank,in_degree,in_degree_rank,total_degree,norm_betweenness,norm_out_degree,norm_in_degree,documented_mpci_score,is_source,is_sink,is_isolated
+amzn,Amazon,ai,USA,Dual Hub & Intermediary,0.012413196050972967,1,16,1,16,2,32,1.0,1.0,0.8,0.933333,False,False,False
+msft,Microsoft,ai,USA,Dual Hub & Intermediary,0.007149116177973542,2,10,3,20,1,30,0.5759287252547004,0.625,1.0,0.733643,False,False,False
+nvda,Nvidia,ai,USA,Critical Intermediary Chokepoint,0.0047448370029015184,3,15,2,6,14,21,0.38224136502940437,0.9375,0.3,0.539914,False,False,False
+eqix,Equinix,ai,USA,Critical Intermediary Chokepoint,0.0037083819147557973,4,4,28,6,14,10,0.2987451337695684,0.25,0.3,0.282915,False,False,False
+amd,AMD,ai,USA,Critical Intermediary Chokepoint,0.001892027917095931,8,7,12,4,31,11,0.1524206907976476,0.4375,0.2,0.263307,False,False,False
+cah,Cardinal Health,medicin,USA,Major Consumer / Integrator,0.0005041672064602495,21,2,58,12,4,14,0.040615422844363445,0.125,0.6,0.255205,False,False,False
+intc,Intel,ai,USA,Critical Intermediary Chokepoint,0.002606868847638377,5,3,39,7,12,10,0.21000786879814456,0.1875,0.35,0.249169,False,False,False
+googl,Alphabet,ai,USA,Critical Intermediary Chokepoint,0.0023924422729319733,7,4,28,6,14,10,0.19273378613434933,0.25,0.3,0.247578,False,False,False
+gev,GE Vernova,energi,USA,Major Supplier / Distributor,0.0012631169840652933,14,8,7,2,60,10,0.10175598442806259,0.5,0.1,0.233919,False,False,False
+lmt,Lockheed Martin,forsvar,USA,Major Downstream Sink Hub,0.0,68,0,162,14,3,14,0.0,0.0,0.7,0.233333,False,True,False
+rtx,RTX,forsvar,USA,Major Consumer / Integrator,0.00029958543852830677,26,2,58,10,7,12,0.024134432204091772,0.125,0.5,0.216378,False,False,False
+mu,Micron,ai,USA,Critical Intermediary Chokepoint,0.0024790020296238716,6,3,39,5,23,8,0.19970699080593055,0.1875,0.25,0.212402,False,False,False
+cor,Cencora,medicin,USA,Major Consumer / Integrator,0.00029148853478429845,27,1,99,11,6,12,0.02348215025262983,0.0625,0.55,0.211994,False,False,False
+v,Visa,finans,USA,Major Upstream Source Hub,0.0,68,10,3,0,147,10,0.0,0.625,0.0,0.208333,True,False,False
+boeing,Boeing,forsvar,USA,Major Downstream Sink Hub,0.0,68,0,162,12,4,12,0.0,0.0,0.6,0.2,False,True,False
+dell,Dell Technologies,ai,USA,Major Consumer / Integrator,0.000568132746037915,20,3,39,7,12,10,0.045768450260912766,0.1875,0.35,0.194423,False,False,False
+mck,McKesson,medicin,USA,Major Consumer / Integrator,0.0002164572267564883,33,1,99,10,7,11,0.017437670835749187,0.0625,0.5,0.193313,False,False,False
+spgi,S&P Global,finans,USA,Major Upstream Source Hub,0.0,68,9,5,0,147,9,0.0,0.5625,0.0,0.1875,True,False,False
+tdy,Teledyne Technologies,forsvar,USA,Major Upstream Source Hub,0.0,68,9,5,0,147,9,0.0,0.5625,0.0,0.1875,True,False,False
+cme,CME Group,finans,USA,Critical Intermediary Chokepoint,0.0016853126792885829,10,6,15,1,81,7,0.13576782904000662,0.375,0.05,0.186923,False,False,False
+noc,Northrop Grumman,forsvar,USA,Major Consumer / Integrator,0.00011335665241611608,41,2,58,8,10,10,0.009131947320467156,0.125,0.4,0.178044,False,False,False
+lly,Eli Lilly,medicin,USA,Major Consumer / Integrator,0.0002376376987725608,31,3,39,6,14,9,0.01914395759131947,0.1875,0.3,0.168881,False,False,False
+crl,Charles River Laboratories,medicin,USA,Major Upstream Source Hub,0.0,68,8,7,0,147,8,0.0,0.5,0.0,0.166667,True,False,False
+iqv,IQVIA Holdings,medicin,USA,Major Upstream Source Hub,0.0,68,8,7,0,147,8,0.0,0.5,0.0,0.166667,True,False,False
+ma,Mastercard,finans,USA,Major Upstream Source Hub,0.0,68,8,7,0,147,8,0.0,0.5,0.0,0.166667,True,False,False
+wst,West Pharmaceutical Services,medicin,USA,Major Upstream Source Hub,0.0,68,8,7,0,147,8,0.0,0.5,0.0,0.166667,True,False,False
+vrt,Vertiv,ai,USA,Critical Intermediary Chokepoint,0.0015869931338256251,11,3,39,3,43,6,0.12784726248654021,0.1875,0.15,0.155116,False,False,False
+pfe,Pfizer,medicin,USA,Major Consumer / Integrator,0.00015666866133247787,38,3,39,5,23,8,0.012621138076700072,0.1875,0.25,0.15004,False,False,False
+meta,Meta Platforms,ai,USA,Major Downstream Sink Hub,0.0,68,0,162,9,9,9,0.0,0.0,0.45,0.15,False,True,False
+avgo,Broadcom,ai,USA,Major Supplier / Distributor,0.0003630625934356988,24,5,19,2,60,7,0.029248115629917998,0.3125,0.1,0.147249,False,False,False
+hwm,Howmet Aerospace,forsvar,USA,Major Upstream Source Hub,0.0,68,7,12,0,147,7,0.0,0.4375,0.0,0.145833,True,False,False
+hxl,Hexcel,forsvar,USA,Major Upstream Source Hub,0.0,68,7,12,0,147,7,0.0,0.4375,0.0,0.145833,True,False,False
+mrcy,Mercury Systems,forsvar,USA,Upstream Vendor,0.0010525974867210779,15,4,28,2,60,6,0.08479665369005217,0.25,0.1,0.144932,False,False,False
+dlr,Digital Realty,ai,USA,Major Consumer / Integrator,0.0005991708770566135,19,1,99,6,14,7,0.048268864408183544,0.0625,0.3,0.136923,False,False,False
+nee,NextEra Energy,energi,USA,Major Downstream Sink Hub,0.0,68,0,162,8,10,8,0.0,0.0,0.4,0.133333,False,True,False
+arm,Arm Holdings,ai,United Kingdom,Major Upstream Source Hub,0.0,68,6,15,0,147,6,0.0,0.375,0.0,0.125,True,False,False
+pwr,Quanta Services,energi,USA,Major Upstream Source Hub,0.0,68,6,15,0,147,6,0.0,0.375,0.0,0.125,True,False,False
+tmo,Thermo Fisher Scientific,medicin,USA,Major Upstream Source Hub,0.0,68,6,15,0,147,6,0.0,0.375,0.0,0.125,True,False,False
+gs,Goldman Sachs,finans,USA,Major Consumer / Integrator,0.0007611089519367793,17,1,99,5,23,6,0.061314503437422334,0.0625,0.25,0.124605,False,False,False
+axp,American Express,finans,USA,Major Supplier / Distributor,8.096903744008291e-05,43,5,19,1,81,6,0.0065228195146193975,0.3125,0.05,0.123008,False,False,False
+abbv,AbbVie,medicin,USA,Balanced Node,0.00011888311052710585,40,3,39,3,43,6,0.009577155636544352,0.1875,0.15,0.115692,False,False,False
+ceg,Constellation Energy,energi,USA,Downstream Customer,0.000971628449280995,16,1,99,4,31,5,0.07827383417543278,0.0625,0.2,0.113591,False,False,False
+jpm,JPMorgan Chase,finans,USA,Major Consumer / Integrator,0.0003400699572483482,25,1,99,5,23,6,0.02739584196140147,0.0625,0.25,0.113299,False,False,False
+ge,GE Aerospace,forsvar,USA,Balanced Node,2.4290711232024873e-05,53,3,39,3,43,6,0.0019568458543858195,0.1875,0.15,0.113152,False,False,False
+lhx,L3Harris,forsvar,USA,Major Consumer / Integrator,0.00017813188236818242,37,1,99,5,23,6,0.014350202932162676,0.0625,0.25,0.10895,False,False,False
+ndaq,Nasdaq,finans,USA,Critical Intermediary Chokepoint,0.0017801621231469658,9,2,58,1,81,3,0.14340884618570363,0.125,0.05,0.106136,False,False,False
+cdns,Cadence Design Systems,ai,USA,Major Upstream Source Hub,0.0,68,5,19,0,147,5,0.0,0.3125,0.0,0.104167,True,False,False
+hei,HEICO,forsvar,USA,Major Upstream Source Hub,0.0,68,5,19,0,147,5,0.0,0.3125,0.0,0.104167,True,False,False
+hon,Honeywell,forsvar,USA,Major Upstream Source Hub,0.0,68,5,19,0,147,5,0.0,0.3125,0.0,0.104167,True,False,False
+ilmn,Illumina,medicin,USA,Major Upstream Source Hub,0.0,68,5,19,0,147,5,0.0,0.3125,0.0,0.104167,True,False,False
+leu,Centrus Energy,energi,USA,Major Upstream Source Hub,0.0,68,5,19,0,147,5,0.0,0.3125,0.0,0.104167,True,False,False
+snps,Synopsys,ai,USA,Major Upstream Source Hub,0.0,68,5,19,0,147,5,0.0,0.3125,0.0,0.104167,True,False,False
+spacex,SpaceX,forsvar,USA,Major Upstream Source Hub,0.0,68,5,19,0,147,5,0.0,0.3125,0.0,0.104167,True,False,False
+etn,Eaton,energi,USA,Upstream Vendor,6.477522995206633e-05,45,4,28,1,81,5,0.005218255611695518,0.25,0.05,0.101739,False,False,False
+blk,BlackRock,finans,USA,Major Consumer / Integrator,0.0,68,0,162,6,14,6,0.0,0.0,0.3,0.1,False,True,False
+duk,Duke Energy,energi,USA,Major Consumer / Integrator,0.0,68,0,162,6,14,6,0.0,0.0,0.3,0.1,False,True,False
+gd,General Dynamics,forsvar,USA,Major Consumer / Integrator,0.0,68,0,162,6,14,6,0.0,0.0,0.3,0.1,False,True,False
+schw,Charles Schwab,finans,USA,Major Consumer / Integrator,0.0,68,0,162,6,14,6,0.0,0.0,0.3,0.1,False,True,False
+anet,Arista Networks,ai,USA,Downstream Customer,0.0002833916310402902,28,2,58,3,43,5,0.022829868301167892,0.125,0.15,0.099277,False,False,False
+bmy,Bristol Myers Squibb,medicin,USA,Downstream Customer,8.793494510556307e-05,42,2,58,3,43,5,0.007083989066512051,0.125,0.15,0.094028,False,False,False
+qcom,Qualcomm,ai,USA,Downstream Customer,0.00012703142318377453,39,1,99,4,31,5,0.010233579060713989,0.0625,0.2,0.090911,False,False,False
+tln,Talen Energy,energi,USA,Downstream Customer,0.0013278922140173598,13,1,99,2,60,3,0.10697424003975813,0.0625,0.1,0.089825,False,False,False
+lh,Labcorp,medicin,USA,Downstream Customer,4.858142246404975e-05,48,1,99,4,31,5,0.003913691708771639,0.0625,0.2,0.088805,False,False,False
+amgn,Amgen,medicin,USA,Downstream Customer,3.21562748690615e-05,51,1,99,4,31,5,0.0025904911786631324,0.0625,0.2,0.088363,False,False,False
+cw,Curtiss-Wright,energi,USA,Upstream Vendor,0.0,68,4,28,0,147,4,0.0,0.25,0.0,0.083333,True,False,False
+dco,Ducommun,forsvar,USA,Upstream Vendor,0.0,68,4,28,0,147,4,0.0,0.25,0.0,0.083333,True,False,False
+emr,Emerson Electric,energi,USA,Upstream Vendor,0.0,68,4,28,0,147,4,0.0,0.25,0.0,0.083333,True,False,False
+hubb,Hubbell,energi,USA,Upstream Vendor,0.0,68,4,28,0,147,4,0.0,0.25,0.0,0.083333,True,False,False
+ice,Intercontinental Exchange,finans,USA,Upstream Vendor,0.0,68,4,28,0,147,4,0.0,0.25,0.0,0.083333,True,False,False
+tdg,TransDigm Group,forsvar,USA,Upstream Vendor,0.0,68,4,28,0,147,4,0.0,0.25,0.0,0.083333,True,False,False
+wwd,Woodward,forsvar,USA,Upstream Vendor,0.0,68,4,28,0,147,4,0.0,0.25,0.0,0.083333,True,False,False
+bac,Bank of America,finans,USA,Major Consumer / Integrator,0.0,68,0,162,5,23,5,0.0,0.0,0.25,0.083333,False,True,False
+cvs,CVS Health,medicin,USA,Major Consumer / Integrator,0.0,68,0,162,5,23,5,0.0,0.0,0.25,0.083333,False,True,False
+txt,Textron,forsvar,USA,Major Consumer / Integrator,0.0,68,0,162,5,23,5,0.0,0.0,0.25,0.083333,False,True,False
+crwv,CoreWeave,ai,USA,Downstream Customer,0.0004534266096644643,22,1,99,3,43,4,0.036527789281868624,0.0625,0.15,0.083009,False,False,False
+gild,Gilead Sciences,medicin,USA,Upstream Vendor,1.6733601070950466e-05,55,3,39,1,81,4,0.0013480493663546754,0.1875,0.05,0.079616,False,False,False
+tsla,Tesla,ai,USA,Downstream Customer,0.00022671330483223215,32,1,99,3,43,4,0.018263894640934312,0.0625,0.15,0.076921,False,False,False
+jnj,Johnson & Johnson,medicin,USA,Balanced Node,2.585868306816616e-05,52,2,58,2,60,4,0.0020831607719705124,0.125,0.1,0.075694,False,False,False
+mrk,Merck & Co.,medicin,USA,Balanced Node,1.506281140948844e-05,60,2,58,2,60,4,0.0012134515033545928,0.125,0.1,0.075404,False,False,False
+crm,Salesforce,ai,USA,Balanced Node,0.0013602798289933929,12,1,99,1,81,2,0.10958336784560588,0.0625,0.05,0.074028,False,False,False
+vst,Vistra,energi,USA,Downstream Customer,7.287213369607461e-05,44,1,99,3,43,4,0.005870537563157458,0.0625,0.15,0.07279,False,False,False
+cien,Ciena,ai,USA,Upstream Vendor,0.0004291358984324394,23,2,58,1,81,3,0.034570943427482806,0.125,0.05,0.069857,False,False,False
+aep,American Electric Power,energi,USA,Downstream Customer,0.0,68,0,162,4,31,4,0.0,0.0,0.2,0.066667,False,True,False
+ci,The Cigna Group,medicin,USA,Downstream Customer,0.0,68,0,162,4,31,4,0.0,0.0,0.2,0.066667,False,True,False
+exc,Exelon,energi,USA,Downstream Customer,0.0,68,0,162,4,31,4,0.0,0.0,0.2,0.066667,False,True,False
+hood,Robinhood,finans,USA,Downstream Customer,0.0,68,0,162,4,31,4,0.0,0.0,0.2,0.066667,False,True,False
+kkr,KKR,finans,USA,Downstream Customer,0.0,68,0,162,4,31,4,0.0,0.0,0.2,0.066667,False,True,False
+regn,Regeneron,medicin,USA,Downstream Customer,0.0,68,0,162,4,31,4,0.0,0.0,0.2,0.066667,False,True,False
+so,Southern Company,energi,USA,Downstream Customer,0.0,68,0,162,4,31,4,0.0,0.0,0.2,0.066667,False,True,False
+ionq,IonQ,quantum,USA,Upstream Vendor,0.00024290711232024875,29,2,58,1,81,3,0.019568458543858195,0.125,0.05,0.064856,False,False,False
+rgti,Rigetti Computing,quantum,USA,Upstream Vendor,0.00024290711232024875,29,2,58,1,81,3,0.019568458543858195,0.125,0.05,0.064856,False,False,False
+smci,Super Micro,ai,USA,Upstream Vendor,0.000194325689856199,34,2,58,1,81,3,0.015654766835086556,0.125,0.05,0.063552,False,False,False
+be,Bloom Energy,energi,USA,Upstream Vendor,0.0,68,3,39,0,147,3,0.0,0.1875,0.0,0.0625,True,False,False
+csco,Cisco,ai,USA,Upstream Vendor,0.0,68,3,39,0,147,3,0.0,0.1875,0.0,0.0625,True,False,False
+dhr,Danaher,medicin,USA,Upstream Vendor,0.0,68,3,39,0,147,3,0.0,0.1875,0.0,0.0625,True,False,False
+form,FormFactor,quantum,USA,Upstream Vendor,0.0,68,3,39,0,147,3,0.0,0.1875,0.0,0.0625,True,False,False
+mco,Moody’s,finans,USA,Upstream Vendor,0.0,68,3,39,0,147,3,0.0,0.1875,0.0,0.0625,True,False,False
+mog,Moog,forsvar,USA,Upstream Vendor,0.0,68,3,39,0,147,3,0.0,0.1875,0.0,0.0625,True,False,False
+mrvl,Marvell,ai,USA,Upstream Vendor,0.0,68,3,39,0,147,3,0.0,0.1875,0.0,0.0625,True,False,False
+ssnc,SS&C Technologies,finans,USA,Upstream Vendor,0.0,68,3,39,0,147,3,0.0,0.1875,0.0,0.0625,True,False,False
+stt,State Street,finans,USA,Upstream Vendor,0.0,68,3,39,0,147,3,0.0,0.1875,0.0,0.0625,True,False,False
+ter,Teradyne,ai,USA,Upstream Vendor,0.0,68,3,39,0,147,3,0.0,0.1875,0.0,0.0625,True,False,False
+fisv,Fiserv,finans,USA,Upstream Vendor,6.477522995206633e-05,45,2,58,1,81,3,0.005218255611695518,0.125,0.05,0.060073,False,False,False
+vrtx,Vertex Pharmaceuticals,medicin,USA,Upstream Vendor,4.0484518720041456e-05,49,2,58,1,81,3,0.0032614097573096987,0.125,0.05,0.05942,False,False,False
+uthr,United Therapeutics,medicin,USA,Upstream Vendor,3.2387614976033165e-05,50,2,58,1,81,3,0.002609127805847759,0.125,0.05,0.059203,False,False,False
+ncno,nCino,finans,USA,Balanced Node,0.000696333721984713,18,1,99,1,81,2,0.05609624782572682,0.0625,0.05,0.056199,False,False,False
+dgx,Quest Diagnostics,medicin,USA,Downstream Customer,2.4290711232024873e-05,53,1,99,2,60,3,0.0019568458543858195,0.0625,0.1,0.054819,False,False,False
+apo,Apollo Global,finans,USA,Downstream Customer,0.0,68,0,162,3,43,3,0.0,0.0,0.15,0.05,False,True,False
+bx,Blackstone,finans,USA,Downstream Customer,0.0,68,0,162,3,43,3,0.0,0.0,0.15,0.05,False,True,False
+cdw,CDW,ai,USA,Downstream Customer,0.0,68,0,162,3,43,3,0.0,0.0,0.15,0.05,False,True,False
+estc,Elastic,forsvar,USA,Downstream Customer,0.0,68,0,162,3,43,3,0.0,0.0,0.15,0.05,False,True,False
+ms,Morgan Stanley,finans,USA,Downstream Customer,0.0,68,0,162,3,43,3,0.0,0.0,0.15,0.05,False,True,False
+orcl,Oracle,ai,USA,Downstream Customer,0.0,68,0,162,3,43,3,0.0,0.0,0.15,0.05,False,True,False
+tdc,Teradata,ai,USA,Downstream Customer,0.0,68,0,162,3,43,3,0.0,0.0,0.15,0.05,False,True,False
+unh,UnitedHealth,medicin,USA,Downstream Customer,0.0,68,0,162,3,43,3,0.0,0.0,0.15,0.05,False,True,False
+wfc,Wells Fargo,finans,USA,Downstream Customer,0.0,68,0,162,3,43,3,0.0,0.0,0.15,0.05,False,True,False
+hpe,HPE,ai,USA,Balanced Node,0.000194325689856199,34,1,99,1,81,2,0.015654766835086556,0.0625,0.05,0.042718,False,False,False
+ibm,IBM,ai,USA,Balanced Node,0.000194325689856199,34,1,99,1,81,2,0.015654766835086556,0.0625,0.05,0.042718,False,False,False
+a,Agilent Technologies,medicin,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+abt,Abbott Laboratories,medicin,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+adi,Analog Devices,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+amat,Applied Materials,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+bdx,Becton Dickinson,medicin,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+br,Broadridge,finans,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+carr,Carrier Global,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+cohr,Coherent,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+crdo,Credo Technology,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+eme,EMCOR Group,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+entg,Entegris,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+fix,Comfort Systems USA,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+fly,Firefly Aerospace,forsvar,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+infq,Infleqtion,quantum,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+itri,Itron,energi,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+klac,KLA,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+lrcx,Lam Research,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+mchp,Microchip Technology,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+mpwr,Monolithic Power,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+ntap,NetApp,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+on,ON Semiconductor,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+stx,Seagate,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+txn,Texas Instruments,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+virt,Virtu Financial,finans,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+wat,Waters Corporation,medicin,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+wdc,Western Digital,ai,USA,Upstream Vendor,0.0,68,2,58,0,147,2,0.0,0.125,0.0,0.041667,True,False,False
+lunr,Intuitive Machines,forsvar,USA,Balanced Node,6.477522995206633e-05,45,1,99,1,81,2,0.005218255611695518,0.0625,0.05,0.039239,False,False,False
+coin,Coinbase,finans,USA,Balanced Node,1.6193807488016582e-05,56,1,99,1,81,2,0.0013045639029238794,0.0625,0.05,0.037935,False,False,False
+fslr,First Solar,energi,USA,Balanced Node,1.6193807488016582e-05,56,1,99,1,81,2,0.0013045639029238794,0.0625,0.05,0.037935,False,False,False
+hii,Huntington Ingalls Industries,forsvar,USA,Balanced Node,1.6193807488016582e-05,56,1,99,1,81,2,0.0013045639029238794,0.0625,0.05,0.037935,False,False,False
+tru,TransUnion,finans,USA,Balanced Node,1.6193807488016582e-05,56,1,99,1,81,2,0.0013045639029238794,0.0625,0.05,0.037935,False,False,False
+ntra,Natera,medicin,USA,Balanced Node,8.096903744008291e-06,61,1,99,1,81,2,0.0006522819514619397,0.0625,0.05,0.037717,False,False,False
+oklo,Oklo,energi,USA,Balanced Node,8.096903744008291e-06,61,1,99,1,81,2,0.0006522819514619397,0.0625,0.05,0.037717,False,False,False
+alny,Alnylam Pharmaceuticals,medicin,USA,Balanced Node,5.3979358293388605e-06,63,1,99,1,81,2,0.0004348546343079598,0.0625,0.05,0.037645,False,False,False
+bmrn,BioMarin Pharmaceutical,medicin,USA,Balanced Node,5.3979358293388605e-06,63,1,99,1,81,2,0.0004348546343079598,0.0625,0.05,0.037645,False,False,False
+incy,Incyte,medicin,USA,Balanced Node,5.3979358293388605e-06,63,1,99,1,81,2,0.0004348546343079598,0.0625,0.05,0.037645,False,False,False
+biib,Biogen,medicin,USA,Balanced Node,2.6989679146694302e-06,66,1,99,1,81,2,0.0002174273171539799,0.0625,0.05,0.037572,False,False,False
+nbix,Neurocrine Biosciences,medicin,USA,Balanced Node,2.6989679146694302e-06,66,1,99,1,81,2,0.0002174273171539799,0.0625,0.05,0.037572,False,False,False
+ktos,Kratos Defense,forsvar,USA,Balanced Node,0.0,68,1,99,1,81,2,0.0,0.0625,0.05,0.0375,False,False,False
+acn,Accenture,ai,Ireland,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+avav,AeroVironment,forsvar,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+c,Citigroup,finans,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+d,Dominion Energy,energi,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+ftnt,Fortinet,forsvar,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+ibkr,Interactive Brokers,finans,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+jkhy,Jack Henry & Associates,finans,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+pnc,PNC Financial,finans,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+pypl,PayPal,finans,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+run,Sunrun,energi,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+snow,Snowflake,ai,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+tenb,Tenable,forsvar,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+usb,U.S. Bancorp,finans,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+xyz,Block,finans,USA,Downstream Customer,0.0,68,0,162,2,60,2,0.0,0.0,0.1,0.033333,False,True,False
+alab,Astera Labs,ai,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+ampx,Amprius Technologies,energi,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+aph,Amphenol,ai,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+bax,Baxter International,medicin,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+bio,Bio-Rad Laboratories,medicin,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+bny,BNY,finans,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+bsx,Boston Scientific,medicin,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+bwxt,BWX Technologies,energi,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+drs,Leonardo DRS,forsvar,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+dxcm,DexCom,medicin,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+enph,Enphase Energy,energi,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+etr,Entergy,energi,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+fico,Fair Isaac (FICO),finans,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+fis,FIS,finans,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+gehc,GE HealthCare,medicin,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+gnrc,Generac,energi,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+krmn,Karman Space & Defense,forsvar,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+mdt,Medtronic,medicin,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+mod,Modine Manufacturing,ai,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+msci,MSCI,finans,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+mtz,MasTec,energi,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+nxt,Nextpower,energi,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+okta,Okta,forsvar,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+p,Everpure,ai,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+podd,Insulet,medicin,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+qnt,Quantinuum,quantum,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+rmd,ResMed,medicin,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+rok,Rockwell Automation,energi,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+rvty,Revvity,medicin,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+syk,Stryker,medicin,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+zbh,Zimmer Biomet,medicin,USA,Upstream Vendor,0.0,68,1,99,0,147,1,0.0,0.0625,0.0,0.020833,True,False,False
+adbe,Adobe,ai,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+app,AppLovin,ai,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+asts,AST SpaceMobile,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+crwd,CrowdStrike,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+ctsh,Cognizant,ai,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+cvlt,Commvault Systems,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+ddog,Datadog,ai,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+duol,Duolingo,ai,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+fitb,Fifth Third Bancorp,finans,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+gpn,Global Payments,finans,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+gsat,Globalstar,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+idxx,IDEXX Laboratories,medicin,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+intu,Intuit,ai,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+irdm,Iridium Communications,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+isrg,Intuitive Surgical,medicin,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+kd,Kyndryl,ai,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+mdb,MongoDB,ai,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+mrna,Moderna,medicin,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+net,Cloudflare,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+now,ServiceNow,ai,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+nrg,NRG Energy,energi,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+panw,Palo Alto Networks,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+pltr,Palantir,ai,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+qbts,D-Wave Quantum,quantum,Canada,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+rbrk,Rubrik,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+rklb,Rocket Lab,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+rpd,Rapid7,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+s,SentinelOne,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+sail,SailPoint,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+smr,NuScale Power,energi,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+te,T1 Energy,energi,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+vrns,Varonis Systems,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+vsat,Viasat,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+wday,Workday,ai,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+zion,Zions Bancorporation,finans,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+zs,Zscaler,forsvar,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+zts,Zoetis,medicin,USA,Downstream Customer,0.0,68,0,162,1,81,1,0.0,0.0,0.05,0.016667,False,True,False
+algn,Align Technology,medicin,USA,Isolated Firm,0.0,68,0,162,0,147,0,0.0,0.0,0.0,0.0,True,True,True
+axon,Axon Enterprise,forsvar,USA,Isolated Firm,0.0,68,0,162,0,147,0,0.0,0.0,0.0,0.0,True,True,True
+bah,Booz Allen Hamilton,forsvar,USA,Isolated Firm,0.0,68,0,162,0,147,0,0.0,0.0,0.0,0.0,True,True,True
+caci,CACI International,forsvar,USA,Isolated Firm,0.0,68,0,162,0,147,0,0.0,0.0,0.0,0.0,True,True,True
+ew,Edwards Lifesciences,medicin,USA,Isolated Firm,0.0,68,0,162,0,147,0,0.0,0.0,0.0,0.0,True,True,True
+flnc,Fluence Energy,energi,USA,Isolated Firm,0.0,68,0,162,0,147,0,0.0,0.0,0.0,0.0,True,True,True
+keys,Keysight Technologies,quantum,USA,Isolated Firm,0.0,68,0,162,0,147,0,0.0,0.0,0.0,0.0,True,True,True
+ldos,Leidos,forsvar,USA,Isolated Firm,0.0,68,0,162,0,147,0,0.0,0.0,0.0,0.0,True,True,True
+msi,Motorola Solutions,forsvar,USA,Isolated Firm,0.0,68,0,162,0,147,0,0.0,0.0,0.0,0.0,True,True,True
+qlys,Qualys,forsvar,USA,Isolated Firm,0.0,68,0,162,0,147,0,0.0,0.0,0.0,0.0,True,True,True
+qubt,Quantum Computing Inc.,quantum,USA,Isolated Firm,0.0,68,0,162,0,147,0,0.0,0.0,0.0,0.0,True,True,True

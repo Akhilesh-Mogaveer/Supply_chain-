@@ -1,0 +1,251 @@
+company_id,company_name,country,sector,segment,in_degree,out_degree,total_degree,in_degree_centrality,out_degree_centrality,betweenness_centrality,is_source,is_sink,is_isolated,component_id,component_size
+amzn,Amazon,USA,ai,Cloud platforms,16,16,32,0.0642570281124498,0.0642570281124498,0.012413196050972967,False,False,False,WCC-1,184
+msft,Microsoft,USA,ai,Cloud platforms,20,10,30,0.08032128514056225,0.040160642570281124,0.007149116177973542,False,False,False,WCC-1,184
+nvda,Nvidia,USA,ai,Chips & accelerators,6,15,21,0.024096385542168672,0.06024096385542168,0.0047448370029015184,False,False,False,WCC-1,184
+eqix,Equinix,USA,ai,Data centers,6,4,10,0.024096385542168672,0.01606425702811245,0.0037083819147557973,False,False,False,WCC-1,184
+intc,Intel,USA,ai,Chips & accelerators,7,3,10,0.028112449799196783,0.012048192771084336,0.002606868847638377,False,False,False,WCC-1,184
+mu,Micron,USA,ai,Chips & accelerators,5,3,8,0.020080321285140562,0.012048192771084336,0.0024790020296238716,False,False,False,WCC-1,184
+googl,Alphabet,USA,ai,Cloud platforms,6,4,10,0.024096385542168672,0.01606425702811245,0.0023924422729319733,False,False,False,WCC-1,184
+amd,AMD,USA,ai,Chips & accelerators,4,7,11,0.01606425702811245,0.028112449799196783,0.001892027917095931,False,False,False,WCC-1,184
+ndaq,Nasdaq,USA,finans,Exchanges & market data,1,2,3,0.004016064257028112,0.008032128514056224,0.0017801621231469658,False,False,False,WCC-1,184
+cme,CME Group,USA,finans,Exchanges & market data,1,6,7,0.004016064257028112,0.024096385542168672,0.0016853126792885829,False,False,False,WCC-1,184
+vrt,Vertiv,USA,ai,"Cooling, power & data center infrastructure",3,3,6,0.012048192771084336,0.012048192771084336,0.0015869931338256251,False,False,False,WCC-1,184
+crm,Salesforce,USA,ai,AI software & productivity,1,1,2,0.004016064257028112,0.004016064257028112,0.0013602798289933929,False,False,False,WCC-1,184
+tln,Talen Energy,USA,energi,Utilities & power producers,2,1,3,0.008032128514056224,0.004016064257028112,0.0013278922140173598,False,False,False,WCC-1,184
+gev,GE Vernova,USA,energi,Power equipment,2,8,10,0.008032128514056224,0.0321285140562249,0.0012631169840652933,False,False,False,WCC-1,184
+mrcy,Mercury Systems,USA,forsvar,"Radar, sensors & electronics",2,4,6,0.008032128514056224,0.01606425702811245,0.0010525974867210779,False,False,False,WCC-1,184
+ceg,Constellation Energy,USA,energi,Utilities & power producers,4,1,5,0.01606425702811245,0.004016064257028112,0.000971628449280995,False,False,False,WCC-1,184
+gs,Goldman Sachs,USA,finans,Investment banking & trading,5,1,6,0.020080321285140562,0.004016064257028112,0.0007611089519367793,False,False,False,WCC-1,184
+ncno,nCino,USA,finans,Brokers & fintech,1,1,2,0.004016064257028112,0.004016064257028112,0.000696333721984713,False,False,False,WCC-1,184
+dlr,Digital Realty,USA,ai,Data centers,6,1,7,0.024096385542168672,0.004016064257028112,0.0005991708770566135,False,False,False,WCC-1,184
+dell,Dell Technologies,USA,ai,Data centers,7,3,10,0.028112449799196783,0.012048192771084336,0.000568132746037915,False,False,False,WCC-1,184
+cah,Cardinal Health,USA,medicin,Distribution & pharmacy infrastructure,12,2,14,0.048192771084337345,0.008032128514056224,0.0005041672064602495,False,False,False,WCC-2,49
+crwv,CoreWeave,USA,ai,Cloud platforms,3,1,4,0.012048192771084336,0.004016064257028112,0.0004534266096644643,False,False,False,WCC-1,184
+cien,Ciena,USA,ai,Data centers,1,2,3,0.004016064257028112,0.008032128514056224,0.0004291358984324394,False,False,False,WCC-1,184
+avgo,Broadcom,USA,ai,Chips & accelerators,2,5,7,0.008032128514056224,0.020080321285140562,0.0003630625934356988,False,False,False,WCC-1,184
+jpm,JPMorgan Chase,USA,finans,Banks,5,1,6,0.020080321285140562,0.004016064257028112,0.0003400699572483482,False,False,False,WCC-1,184
+rtx,RTX,USA,forsvar,Defense integrators,10,2,12,0.040160642570281124,0.008032128514056224,0.00029958543852830677,False,False,False,WCC-1,184
+cor,Cencora,USA,medicin,Distribution & pharmacy infrastructure,11,1,12,0.04417670682730923,0.004016064257028112,0.00029148853478429845,False,False,False,WCC-2,49
+anet,Arista Networks,USA,ai,Data centers,3,2,5,0.012048192771084336,0.008032128514056224,0.0002833916310402902,False,False,False,WCC-1,184
+ionq,IonQ,USA,quantum,Quantum hardware & platforms,1,2,3,0.004016064257028112,0.008032128514056224,0.00024290711232024875,False,False,False,WCC-1,184
+rgti,Rigetti Computing,USA,quantum,Quantum hardware & platforms,1,2,3,0.004016064257028112,0.008032128514056224,0.00024290711232024875,False,False,False,WCC-1,184
+lly,Eli Lilly,USA,medicin,Diabetes & metabolic disease,6,3,9,0.024096385542168672,0.012048192771084336,0.0002376376987725608,False,False,False,WCC-2,49
+tsla,Tesla,USA,ai,AI software & productivity,3,1,4,0.012048192771084336,0.004016064257028112,0.00022671330483223215,False,False,False,WCC-1,184
+mck,McKesson,USA,medicin,Distribution & pharmacy infrastructure,10,1,11,0.040160642570281124,0.004016064257028112,0.0002164572267564883,False,False,False,WCC-2,49
+smci,Super Micro,USA,ai,Data centers,1,2,3,0.004016064257028112,0.008032128514056224,0.000194325689856199,False,False,False,WCC-1,184
+hpe,HPE,USA,ai,Data centers,1,1,2,0.004016064257028112,0.004016064257028112,0.000194325689856199,False,False,False,WCC-1,184
+ibm,IBM,USA,ai,IT consultants & integrators,1,1,2,0.004016064257028112,0.004016064257028112,0.000194325689856199,False,False,False,WCC-1,184
+lhx,L3Harris,USA,forsvar,Defense integrators,5,1,6,0.020080321285140562,0.004016064257028112,0.00017813188236818242,False,False,False,WCC-1,184
+pfe,Pfizer,USA,medicin,Big pharma,5,3,8,0.020080321285140562,0.012048192771084336,0.00015666866133247787,False,False,False,WCC-2,49
+qcom,Qualcomm,USA,ai,Chips & accelerators,4,1,5,0.01606425702811245,0.004016064257028112,0.00012703142318377453,False,False,False,WCC-1,184
+abbv,AbbVie,USA,medicin,Big pharma,3,3,6,0.012048192771084336,0.012048192771084336,0.00011888311052710585,False,False,False,WCC-2,49
+noc,Northrop Grumman,USA,forsvar,Defense integrators,8,2,10,0.0321285140562249,0.008032128514056224,0.00011335665241611608,False,False,False,WCC-1,184
+bmy,Bristol Myers Squibb,USA,medicin,Big pharma,3,2,5,0.012048192771084336,0.008032128514056224,8.793494510556307e-05,False,False,False,WCC-2,49
+axp,American Express,USA,finans,Payment rails & networks,1,5,6,0.004016064257028112,0.020080321285140562,8.096903744008291e-05,False,False,False,WCC-1,184
+vst,Vistra,USA,energi,Utilities & power producers,3,1,4,0.012048192771084336,0.004016064257028112,7.287213369607461e-05,False,False,False,WCC-1,184
+etn,Eaton,USA,energi,Power equipment,1,4,5,0.004016064257028112,0.01606425702811245,6.477522995206633e-05,False,False,False,WCC-1,184
+fisv,Fiserv,USA,finans,Payment rails & networks,1,2,3,0.004016064257028112,0.008032128514056224,6.477522995206633e-05,False,False,False,WCC-1,184
+lunr,Intuitive Machines,USA,forsvar,Space industry & satellites,1,1,2,0.004016064257028112,0.004016064257028112,6.477522995206633e-05,False,False,False,WCC-1,184
+lh,Labcorp,USA,medicin,Diagnostics,4,1,5,0.01606425702811245,0.004016064257028112,4.858142246404975e-05,False,False,False,WCC-2,49
+vrtx,Vertex Pharmaceuticals,USA,medicin,Biotech & innovation,1,2,3,0.004016064257028112,0.008032128514056224,4.0484518720041456e-05,False,False,False,WCC-2,49
+uthr,United Therapeutics,USA,medicin,Biotech & innovation,1,2,3,0.004016064257028112,0.008032128514056224,3.2387614976033165e-05,False,False,False,WCC-2,49
+amgn,Amgen,USA,medicin,Biotech & innovation,4,1,5,0.01606425702811245,0.004016064257028112,3.21562748690615e-05,False,False,False,WCC-2,49
+jnj,Johnson & Johnson,USA,medicin,Big pharma,2,2,4,0.008032128514056224,0.008032128514056224,2.585868306816616e-05,False,False,False,WCC-2,49
+ge,GE Aerospace,USA,forsvar,Dual-use technology,3,3,6,0.012048192771084336,0.012048192771084336,2.4290711232024873e-05,False,False,False,WCC-1,184
+dgx,Quest Diagnostics,USA,medicin,Diagnostics,2,1,3,0.008032128514056224,0.004016064257028112,2.4290711232024873e-05,False,False,False,WCC-2,49
+gild,Gilead Sciences,USA,medicin,Biotech & innovation,1,3,4,0.004016064257028112,0.012048192771084336,1.6733601070950466e-05,False,False,False,WCC-2,49
+coin,Coinbase,USA,finans,Brokers & fintech,1,1,2,0.004016064257028112,0.004016064257028112,1.6193807488016582e-05,False,False,False,WCC-1,184
+fslr,First Solar,USA,energi,Solar & wind,1,1,2,0.004016064257028112,0.004016064257028112,1.6193807488016582e-05,False,False,False,WCC-1,184
+hii,Huntington Ingalls Industries,USA,forsvar,Military platforms,1,1,2,0.004016064257028112,0.004016064257028112,1.6193807488016582e-05,False,False,False,WCC-1,184
+tru,TransUnion,USA,finans,Exchanges & market data,1,1,2,0.004016064257028112,0.004016064257028112,1.6193807488016582e-05,False,False,False,WCC-1,184
+mrk,Merck & Co.,USA,medicin,Big pharma,2,2,4,0.008032128514056224,0.008032128514056224,1.506281140948844e-05,False,False,False,WCC-2,49
+ntra,Natera,USA,medicin,Diagnostics,1,1,2,0.004016064257028112,0.004016064257028112,8.096903744008291e-06,False,False,False,WCC-2,49
+oklo,Oklo,USA,energi,Nuclear energy & uranium,1,1,2,0.004016064257028112,0.004016064257028112,8.096903744008291e-06,False,False,False,WCC-1,184
+alny,Alnylam Pharmaceuticals,USA,medicin,Biotech & innovation,1,1,2,0.004016064257028112,0.004016064257028112,5.3979358293388605e-06,False,False,False,WCC-2,49
+bmrn,BioMarin Pharmaceutical,USA,medicin,Biotech & innovation,1,1,2,0.004016064257028112,0.004016064257028112,5.3979358293388605e-06,False,False,False,WCC-2,49
+incy,Incyte,USA,medicin,Biotech & innovation,1,1,2,0.004016064257028112,0.004016064257028112,5.3979358293388605e-06,False,False,False,WCC-2,49
+biib,Biogen,USA,medicin,Biotech & innovation,1,1,2,0.004016064257028112,0.004016064257028112,2.6989679146694302e-06,False,False,False,WCC-2,49
+nbix,Neurocrine Biosciences,USA,medicin,Biotech & innovation,1,1,2,0.004016064257028112,0.004016064257028112,2.6989679146694302e-06,False,False,False,WCC-2,49
+v,Visa,USA,finans,Payment rails & networks,0,10,10,0.0,0.040160642570281124,0.0,True,False,False,WCC-1,184
+spgi,S&P Global,USA,finans,Exchanges & market data,0,9,9,0.0,0.03614457831325301,0.0,True,False,False,WCC-1,184
+tdy,Teledyne Technologies,USA,forsvar,Dual-use technology,0,9,9,0.0,0.03614457831325301,0.0,True,False,False,WCC-1,184
+crl,Charles River Laboratories,USA,medicin,CDMO & pharma manufacturing,0,8,8,0.0,0.0321285140562249,0.0,True,False,False,WCC-2,49
+iqv,IQVIA Holdings,USA,medicin,CDMO & pharma manufacturing,0,8,8,0.0,0.0321285140562249,0.0,True,False,False,WCC-2,49
+ma,Mastercard,USA,finans,Payment rails & networks,0,8,8,0.0,0.0321285140562249,0.0,True,False,False,WCC-1,184
+wst,West Pharmaceutical Services,USA,medicin,CDMO & pharma manufacturing,0,8,8,0.0,0.0321285140562249,0.0,True,False,False,WCC-2,49
+hwm,Howmet Aerospace,USA,forsvar,Military platforms,0,7,7,0.0,0.028112449799196783,0.0,True,False,False,WCC-1,184
+hxl,Hexcel,USA,forsvar,Military platforms,0,7,7,0.0,0.028112449799196783,0.0,True,False,False,WCC-1,184
+arm,Arm Holdings,United Kingdom,ai,Chips & accelerators,0,6,6,0.0,0.024096385542168672,0.0,True,False,False,WCC-1,184
+pwr,Quanta Services,USA,energi,Grid & electrification,0,6,6,0.0,0.024096385542168672,0.0,True,False,False,WCC-1,184
+tmo,Thermo Fisher Scientific,USA,medicin,Life science tools,0,6,6,0.0,0.024096385542168672,0.0,True,False,False,WCC-2,49
+cdns,Cadence Design Systems,USA,ai,Semiconductor equipment & IP,0,5,5,0.0,0.020080321285140562,0.0,True,False,False,WCC-1,184
+hei,HEICO,USA,forsvar,Military platforms,0,5,5,0.0,0.020080321285140562,0.0,True,False,False,WCC-1,184
+hon,Honeywell,USA,forsvar,Dual-use technology,0,5,5,0.0,0.020080321285140562,0.0,True,False,False,WCC-1,184
+ilmn,Illumina,USA,medicin,Life science tools,0,5,5,0.0,0.020080321285140562,0.0,True,False,False,WCC-2,49
+leu,Centrus Energy,USA,energi,Nuclear energy & uranium,0,5,5,0.0,0.020080321285140562,0.0,True,False,False,WCC-1,184
+snps,Synopsys,USA,ai,Semiconductor equipment & IP,0,5,5,0.0,0.020080321285140562,0.0,True,False,False,WCC-1,184
+spacex,SpaceX,USA,forsvar,Space industry & satellites,0,5,5,0.0,0.020080321285140562,0.0,True,False,False,WCC-1,184
+cw,Curtiss-Wright,USA,energi,Nuclear energy & uranium,0,4,4,0.0,0.01606425702811245,0.0,True,False,False,WCC-1,184
+dco,Ducommun,USA,forsvar,"Radar, sensors & electronics",0,4,4,0.0,0.01606425702811245,0.0,True,False,False,WCC-1,184
+emr,Emerson Electric,USA,energi,Grid & electrification,0,4,4,0.0,0.01606425702811245,0.0,True,False,False,WCC-1,184
+hubb,Hubbell,USA,energi,Grid & electrification,0,4,4,0.0,0.01606425702811245,0.0,True,False,False,WCC-1,184
+ice,Intercontinental Exchange,USA,finans,Exchanges & market data,0,4,4,0.0,0.01606425702811245,0.0,True,False,False,WCC-1,184
+tdg,TransDigm Group,USA,forsvar,Dual-use technology,0,4,4,0.0,0.01606425702811245,0.0,True,False,False,WCC-1,184
+wwd,Woodward,USA,forsvar,Military platforms,0,4,4,0.0,0.01606425702811245,0.0,True,False,False,WCC-1,184
+be,Bloom Energy,USA,energi,Power equipment,0,3,3,0.0,0.012048192771084336,0.0,True,False,False,WCC-1,184
+csco,Cisco,USA,ai,Data centers,0,3,3,0.0,0.012048192771084336,0.0,True,False,False,WCC-1,184
+dhr,Danaher,USA,medicin,Life science tools,0,3,3,0.0,0.012048192771084336,0.0,True,False,False,WCC-2,49
+form,FormFactor,USA,quantum,"Enablers, test & components",0,3,3,0.0,0.012048192771084336,0.0,True,False,False,WCC-1,184
+mco,Moody’s,USA,finans,Exchanges & market data,0,3,3,0.0,0.012048192771084336,0.0,True,False,False,WCC-1,184
+mog,Moog,USA,forsvar,Military platforms,0,3,3,0.0,0.012048192771084336,0.0,True,False,False,WCC-1,184
+mrvl,Marvell,USA,ai,Chips & accelerators,0,3,3,0.0,0.012048192771084336,0.0,True,False,False,WCC-1,184
+ssnc,SS&C Technologies,USA,finans,Exchanges & market data,0,3,3,0.0,0.012048192771084336,0.0,True,False,False,WCC-1,184
+stt,State Street,USA,finans,Banks,0,3,3,0.0,0.012048192771084336,0.0,True,False,False,WCC-1,184
+ter,Teradyne,USA,ai,Semiconductor equipment & IP,0,3,3,0.0,0.012048192771084336,0.0,True,False,False,WCC-1,184
+a,Agilent Technologies,USA,medicin,Life science tools,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-2,49
+abt,Abbott Laboratories,USA,medicin,Diagnostics,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-2,49
+adi,Analog Devices,USA,ai,Chips & accelerators,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+amat,Applied Materials,USA,ai,Semiconductor equipment & IP,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+bdx,Becton Dickinson,USA,medicin,Medtech & devices,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-2,49
+br,Broadridge,USA,finans,Exchanges & market data,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+carr,Carrier Global,USA,ai,"Cooling, power & data center infrastructure",0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+cohr,Coherent,USA,ai,Data centers,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+crdo,Credo Technology,USA,ai,Data centers,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+eme,EMCOR Group,USA,ai,"Cooling, power & data center infrastructure",0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+entg,Entegris,USA,ai,Semiconductor equipment & IP,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+fix,Comfort Systems USA,USA,ai,"Cooling, power & data center infrastructure",0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+fly,Firefly Aerospace,USA,forsvar,Space industry & satellites,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+infq,Infleqtion,USA,quantum,Quantum hardware & platforms,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+itri,Itron,USA,energi,Grid & electrification,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+klac,KLA,USA,ai,Semiconductor equipment & IP,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+lrcx,Lam Research,USA,ai,Semiconductor equipment & IP,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+mchp,Microchip Technology,USA,ai,Chips & accelerators,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+mpwr,Monolithic Power,USA,ai,Chips & accelerators,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+ntap,NetApp,USA,ai,Data centers,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+on,ON Semiconductor,USA,ai,Chips & accelerators,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+stx,Seagate,USA,ai,Chips & accelerators,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+txn,Texas Instruments,USA,ai,Chips & accelerators,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+virt,Virtu Financial,USA,finans,Investment banking & trading,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+wat,Waters Corporation,USA,medicin,Life science tools,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-2,49
+wdc,Western Digital,USA,ai,Chips & accelerators,0,2,2,0.0,0.008032128514056224,0.0,True,False,False,WCC-1,184
+ktos,Kratos Defense,USA,forsvar,Drones & autonomous systems,1,1,2,0.004016064257028112,0.004016064257028112,0.0,False,False,False,WCC-1,184
+alab,Astera Labs,USA,ai,Data centers,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+ampx,Amprius Technologies,USA,energi,Batteries & energy storage,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+aph,Amphenol,USA,ai,Data centers,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+bax,Baxter International,USA,medicin,Medtech & devices,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-2,49
+bio,Bio-Rad Laboratories,USA,medicin,Diagnostics,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-2,49
+bny,BNY,USA,finans,Banks,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+bsx,Boston Scientific,USA,medicin,Medtech & devices,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-2,49
+bwxt,BWX Technologies,USA,energi,Nuclear energy & uranium,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+drs,Leonardo DRS,USA,forsvar,"Radar, sensors & electronics",0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+dxcm,DexCom,USA,medicin,Diabetes & metabolic disease,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-2,49
+enph,Enphase Energy,USA,energi,Solar & wind,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+etr,Entergy,USA,energi,Utilities & power producers,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+fico,Fair Isaac (FICO),USA,finans,Exchanges & market data,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+fis,FIS,USA,finans,Payment rails & networks,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-3,2
+gehc,GE HealthCare,USA,medicin,Medtech & devices,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-2,49
+gnrc,Generac,USA,energi,Power equipment,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+krmn,Karman Space & Defense,USA,forsvar,Missiles & ammunition,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+mdt,Medtronic,USA,medicin,Medtech & devices,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-2,49
+mod,Modine Manufacturing,USA,ai,"Cooling, power & data center infrastructure",0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+msci,MSCI,USA,finans,Exchanges & market data,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+mtz,MasTec,USA,energi,Grid & electrification,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+nxt,Nextpower,USA,energi,Solar & wind,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-5,2
+okta,Okta,USA,forsvar,Identity & access management,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-4,2
+p,Everpure,USA,ai,Data centers,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+podd,Insulet,USA,medicin,Diabetes & metabolic disease,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-2,49
+qnt,Quantinuum,USA,quantum,Quantum hardware & platforms,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+rmd,ResMed,USA,medicin,Medtech & devices,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-2,49
+rok,Rockwell Automation,USA,energi,Power equipment,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-1,184
+rvty,Revvity,USA,medicin,Life science tools,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-2,49
+syk,Stryker,USA,medicin,Medtech & devices,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-2,49
+zbh,Zimmer Biomet,USA,medicin,Medtech & devices,0,1,1,0.0,0.004016064257028112,0.0,True,False,False,WCC-2,49
+lmt,Lockheed Martin,USA,forsvar,Defense integrators,14,0,14,0.056224899598393566,0.0,0.0,False,True,False,WCC-1,184
+boeing,Boeing,USA,forsvar,Military platforms,12,0,12,0.048192771084337345,0.0,0.0,False,True,False,WCC-1,184
+meta,Meta Platforms,USA,ai,AI software & productivity,9,0,9,0.03614457831325301,0.0,0.0,False,True,False,WCC-1,184
+nee,NextEra Energy,USA,energi,Utilities & power producers,8,0,8,0.0321285140562249,0.0,0.0,False,True,False,WCC-1,184
+blk,BlackRock,USA,finans,Asset & alternative managers,6,0,6,0.024096385542168672,0.0,0.0,False,True,False,WCC-1,184
+duk,Duke Energy,USA,energi,Utilities & power producers,6,0,6,0.024096385542168672,0.0,0.0,False,True,False,WCC-1,184
+gd,General Dynamics,USA,forsvar,Defense integrators,6,0,6,0.024096385542168672,0.0,0.0,False,True,False,WCC-1,184
+schw,Charles Schwab,USA,finans,Brokers & fintech,6,0,6,0.024096385542168672,0.0,0.0,False,True,False,WCC-1,184
+bac,Bank of America,USA,finans,Banks,5,0,5,0.020080321285140562,0.0,0.0,False,True,False,WCC-1,184
+cvs,CVS Health,USA,medicin,Distribution & pharmacy infrastructure,5,0,5,0.020080321285140562,0.0,0.0,False,True,False,WCC-2,49
+txt,Textron,USA,forsvar,Military platforms,5,0,5,0.020080321285140562,0.0,0.0,False,True,False,WCC-1,184
+aep,American Electric Power,USA,energi,Utilities & power producers,4,0,4,0.01606425702811245,0.0,0.0,False,True,False,WCC-1,184
+ci,The Cigna Group,USA,medicin,Distribution & pharmacy infrastructure,4,0,4,0.01606425702811245,0.0,0.0,False,True,False,WCC-2,49
+exc,Exelon,USA,energi,Utilities & power producers,4,0,4,0.01606425702811245,0.0,0.0,False,True,False,WCC-1,184
+hood,Robinhood,USA,finans,Brokers & fintech,4,0,4,0.01606425702811245,0.0,0.0,False,True,False,WCC-1,184
+kkr,KKR,USA,finans,Asset & alternative managers,4,0,4,0.01606425702811245,0.0,0.0,False,True,False,WCC-1,184
+regn,Regeneron,USA,medicin,Biotech & innovation,4,0,4,0.01606425702811245,0.0,0.0,False,True,False,WCC-2,49
+so,Southern Company,USA,energi,Utilities & power producers,4,0,4,0.01606425702811245,0.0,0.0,False,True,False,WCC-1,184
+apo,Apollo Global,USA,finans,Asset & alternative managers,3,0,3,0.012048192771084336,0.0,0.0,False,True,False,WCC-1,184
+bx,Blackstone,USA,finans,Asset & alternative managers,3,0,3,0.012048192771084336,0.0,0.0,False,True,False,WCC-1,184
+cdw,CDW,USA,ai,IT consultants & integrators,3,0,3,0.012048192771084336,0.0,0.0,False,True,False,WCC-1,184
+estc,Elastic,USA,forsvar,"SOC, XDR & threat detection",3,0,3,0.012048192771084336,0.0,0.0,False,True,False,WCC-1,184
+ms,Morgan Stanley,USA,finans,Investment banking & trading,3,0,3,0.012048192771084336,0.0,0.0,False,True,False,WCC-1,184
+orcl,Oracle,USA,ai,Cloud platforms,3,0,3,0.012048192771084336,0.0,0.0,False,True,False,WCC-1,184
+tdc,Teradata,USA,ai,"Data, analytics & enterprise AI",3,0,3,0.012048192771084336,0.0,0.0,False,True,False,WCC-1,184
+unh,UnitedHealth,USA,medicin,Distribution & pharmacy infrastructure,3,0,3,0.012048192771084336,0.0,0.0,False,True,False,WCC-2,49
+wfc,Wells Fargo,USA,finans,Banks,3,0,3,0.012048192771084336,0.0,0.0,False,True,False,WCC-1,184
+acn,Accenture,Ireland,ai,IT consultants & integrators,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+avav,AeroVironment,USA,forsvar,Drones & autonomous systems,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+c,Citigroup,USA,finans,Banks,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+d,Dominion Energy,USA,energi,Utilities & power producers,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+ftnt,Fortinet,USA,forsvar,Network security,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+ibkr,Interactive Brokers,USA,finans,Brokers & fintech,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+jkhy,Jack Henry & Associates,USA,finans,Payment rails & networks,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+pnc,PNC Financial,USA,finans,Banks,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+pypl,PayPal,USA,finans,Payment rails & networks,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+run,Sunrun,USA,energi,Solar & wind,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+snow,Snowflake,USA,ai,"Data, analytics & enterprise AI",2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+tenb,Tenable,USA,forsvar,Vulnerability management,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+usb,U.S. Bancorp,USA,finans,Banks,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+xyz,Block,USA,finans,Brokers & fintech,2,0,2,0.008032128514056224,0.0,0.0,False,True,False,WCC-1,184
+adbe,Adobe,USA,ai,AI software & productivity,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+app,AppLovin,USA,ai,AI software & productivity,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+asts,AST SpaceMobile,USA,forsvar,Space industry & satellites,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+crwd,CrowdStrike,USA,forsvar,Endpoint security,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+ctsh,Cognizant,USA,ai,IT consultants & integrators,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+cvlt,Commvault Systems,USA,forsvar,Incident response & recovery,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+ddog,Datadog,USA,ai,"Data, analytics & enterprise AI",1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+duol,Duolingo,USA,ai,AI software & productivity,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+fitb,Fifth Third Bancorp,USA,finans,Banks,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-3,2
+gpn,Global Payments,USA,finans,Payment rails & networks,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+gsat,Globalstar,USA,forsvar,Space industry & satellites,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+idxx,IDEXX Laboratories,USA,medicin,Diagnostics,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-2,49
+intu,Intuit,USA,ai,AI software & productivity,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+irdm,Iridium Communications,USA,forsvar,Space industry & satellites,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+isrg,Intuitive Surgical,USA,medicin,Medtech & devices,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+kd,Kyndryl,USA,ai,IT consultants & integrators,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+mdb,MongoDB,USA,ai,"Data, analytics & enterprise AI",1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+mrna,Moderna,USA,medicin,Biotech & innovation,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-2,49
+net,Cloudflare,USA,forsvar,Cloud security,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-4,2
+now,ServiceNow,USA,ai,AI software & productivity,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+nrg,NRG Energy,USA,energi,Utilities & power producers,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+panw,Palo Alto Networks,USA,forsvar,Network security,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+pltr,Palantir,USA,ai,"Data, analytics & enterprise AI",1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+qbts,D-Wave Quantum,Canada,quantum,Quantum hardware & platforms,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+rbrk,Rubrik,USA,forsvar,Incident response & recovery,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+rklb,Rocket Lab,USA,forsvar,Space industry & satellites,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+rpd,Rapid7,USA,forsvar,Vulnerability management,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+s,SentinelOne,USA,forsvar,Endpoint security,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+sail,SailPoint,USA,forsvar,Identity & access management,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+smr,NuScale Power,USA,energi,Nuclear energy & uranium,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+te,T1 Energy,USA,energi,Solar & wind,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-5,2
+vrns,Varonis Systems,USA,forsvar,Data security,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+vsat,Viasat,USA,forsvar,Space industry & satellites,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+wday,Workday,USA,ai,AI software & productivity,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+zion,Zions Bancorporation,USA,finans,Banks,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+zs,Zscaler,USA,forsvar,Cloud security,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-1,184
+zts,Zoetis,USA,medicin,Big pharma,1,0,1,0.004016064257028112,0.0,0.0,False,True,False,WCC-2,49
+algn,Align Technology,USA,medicin,Medtech & devices,0,0,0,0.0,0.0,0.0,True,True,True,WCC-6,1
+axon,Axon Enterprise,USA,forsvar,Dual-use technology,0,0,0,0.0,0.0,0.0,True,True,True,WCC-7,1
+bah,Booz Allen Hamilton,USA,forsvar,Communications & defense data,0,0,0,0.0,0.0,0.0,True,True,True,WCC-8,1
+caci,CACI International,USA,forsvar,Communications & defense data,0,0,0,0.0,0.0,0.0,True,True,True,WCC-9,1
+ew,Edwards Lifesciences,USA,medicin,Medtech & devices,0,0,0,0.0,0.0,0.0,True,True,True,WCC-10,1
+flnc,Fluence Energy,USA,energi,Batteries & energy storage,0,0,0,0.0,0.0,0.0,True,True,True,WCC-11,1
+keys,Keysight Technologies,USA,quantum,"Enablers, test & components",0,0,0,0.0,0.0,0.0,True,True,True,WCC-12,1
+ldos,Leidos,USA,forsvar,Communications & defense data,0,0,0,0.0,0.0,0.0,True,True,True,WCC-13,1
+msi,Motorola Solutions,USA,forsvar,Dual-use technology,0,0,0,0.0,0.0,0.0,True,True,True,WCC-14,1
+qlys,Qualys,USA,forsvar,Vulnerability management,0,0,0,0.0,0.0,0.0,True,True,True,WCC-15,1
+qubt,Quantum Computing Inc.,USA,quantum,Quantum hardware & platforms,0,0,0,0.0,0.0,0.0,True,True,True,WCC-16,1

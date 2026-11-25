@@ -1,0 +1,446 @@
+supplier_id,supplier_ticker,supplier_name,customer_id,customer_ticker,customer_name,sector,supplier_segment,customer_segment,supplier_sector,customer_sector,what,source,url
+a,A,Agilent Technologies,abbv,ABBV,AbbVie,medicin,Life science tools,Big pharma,medicin,medicin,,,
+a,A,Agilent Technologies,pfe,PFE,Pfizer,medicin,Life science tools,Big pharma,medicin,medicin,,,
+abbv,ABBV,AbbVie,cah,CAH,Cardinal Health,medicin,Big pharma,Distribution & pharmacy infrastructure,medicin,medicin,,,
+abbv,ABBV,AbbVie,cor,COR,Cencora,medicin,Big pharma,Distribution & pharmacy infrastructure,medicin,medicin,,,
+abbv,ABBV,AbbVie,mck,MCK,McKesson,medicin,Big pharma,Distribution & pharmacy infrastructure,medicin,medicin,,,
+abt,ABT,Abbott Laboratories,dgx,DGX,Quest Diagnostics,medicin,Diagnostics,Diagnostics,medicin,medicin,,,
+abt,ABT,Abbott Laboratories,lh,LH,Labcorp,medicin,Diagnostics,Diagnostics,medicin,medicin,,,
+adi,ADI,Analog Devices,anet,ANET,Arista Networks,ai,Chips & accelerators,Data centers,ai,ai,,,
+adi,ADI,Analog Devices,dell,DELL,Dell Technologies,ai,Chips & accelerators,Data centers,ai,ai,,,
+alab,ALAB,Astera Labs,amzn,AMZN,Amazon,ai,Data centers,Cloud platforms,ai,ai,,,
+alny,ALNY,Alnylam Pharmaceuticals,cor,COR,Cencora,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+amat,AMAT,Applied Materials,intc,INTC,Intel,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+amat,AMAT,Applied Materials,mu,MU,Micron,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+amd,AMD,AMD,amzn,AMZN,Amazon,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+amd,AMD,AMD,dell,DELL,Dell Technologies,ai,Chips & accelerators,Data centers,ai,ai,,,
+amd,AMD,AMD,googl,GOOGL,Alphabet,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+amd,AMD,AMD,meta,META,Meta Platforms,ai,Chips & accelerators,AI software & productivity,ai,ai,,,
+amd,AMD,AMD,mrcy,MRCY,Mercury Systems,,Chips & accelerators,"Radar, sensors & electronics",ai,forsvar,FPGAs for embedded processing products,"Mercury Systems 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1049521/000104952126000045/mrcy-20260703.htm
+amd,AMD,AMD,msft,MSFT,Microsoft,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+amd,AMD,AMD,orcl,ORCL,Oracle,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+amgn,AMGN,Amgen,cor,COR,Cencora,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+ampx,AMPX,Amprius Technologies,avav,AVAV,AeroVironment,,Batteries & energy storage,Drones & autonomous systems,energi,forsvar,Lithium-ion cells for AeroVironment's Switchblade 300 Block 20,"Amprius press release, Apr 2023",https://ir.amprius.com/news-events/press-releases/detail/44/amprius-to-supply-key-power-element-for-aerovironments-switchblade-300-block-20-loitering-missile
+amzn,AMZN,Amazon,crm,CRM,Salesforce,ai,Cloud platforms,AI software & productivity,ai,ai,,,
+amzn,AMZN,Amazon,crwd,CRWD,CrowdStrike,,Cloud platforms,Endpoint security,ai,forsvar,Cloud hosting for the Falcon platform,"CrowdStrike 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1535527/000153552726000010/crwd-20260131.htm
+amzn,AMZN,Amazon,ddog,DDOG,Datadog,ai,Cloud platforms,"Data, analytics & enterprise AI",ai,ai,,,
+amzn,AMZN,Amazon,duol,DUOL,Duolingo,ai,Cloud platforms,AI software & productivity,ai,ai,,,
+amzn,AMZN,Amazon,estc,ESTC,Elastic,,Cloud platforms,"SOC, XDR & threat detection",ai,forsvar,Cloud hosting for Elastic Cloud on AWS,"Elastic 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1707753/000170775326000018/estc-20260430.htm
+amzn,AMZN,Amazon,ftnt,FTNT,Fortinet,,Cloud platforms,Network security,ai,forsvar,Cloud hosting for Fortinet's cloud services,Fortinet 10-K 2025,https://www.sec.gov/Archives/edgar/data/1262039/000126203926000007/ftnt-20251231.htm
+amzn,AMZN,Amazon,intu,INTU,Intuit,ai,Cloud platforms,AI software & productivity,ai,ai,,,
+amzn,AMZN,Amazon,mdb,MDB,MongoDB,ai,Cloud platforms,"Data, analytics & enterprise AI",ai,ai,,,
+amzn,AMZN,Amazon,ndaq,NDAQ,Nasdaq,,Cloud platforms,Exchanges & market data,ai,finans,AWS Outposts and a private AWS Local Zone for Nasdaq's markets,Amazon press: Nasdaq and AWS partner to transform capital markets (2021),https://press.aboutamazon.com/2021/11/nasdaq-and-aws-partner-to-transform-capital-markets
+amzn,AMZN,Amazon,pltr,PLTR,Palantir,ai,Cloud platforms,"Data, analytics & enterprise AI",ai,ai,,,
+amzn,AMZN,Amazon,rpd,RPD,Rapid7,,Cloud platforms,Vulnerability management,ai,forsvar,Cloud hosting for Rapid7's cloud products,Rapid7 10-K 2025,https://www.sec.gov/Archives/edgar/data/1560327/000156032726000008/rp-20251231.htm
+amzn,AMZN,Amazon,s,S,SentinelOne,,Cloud platforms,Endpoint security,ai,forsvar,Cloud hosting for the Singularity platform,"SentinelOne 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1583708/000158370826000020/s-20260131.htm
+amzn,AMZN,Amazon,sail,SAIL,SailPoint,,Cloud platforms,Identity & access management,ai,forsvar,Cloud hosting for SailPoint's SaaS platform,"SailPoint 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/2030781/000203078126000003/sail-20260131.htm
+amzn,AMZN,Amazon,snow,SNOW,Snowflake,ai,Cloud platforms,"Data, analytics & enterprise AI",ai,ai,,,
+amzn,AMZN,Amazon,tenb,TENB,Tenable,,Cloud platforms,Vulnerability management,ai,forsvar,Cloud hosting for Tenable One,Tenable 10-K 2025,https://www.sec.gov/Archives/edgar/data/1660280/000166028026000005/tenb-20251231.htm
+amzn,AMZN,Amazon,wday,WDAY,Workday,ai,Cloud platforms,AI software & productivity,ai,ai,,,
+anet,ANET,Arista Networks,meta,META,Meta Platforms,ai,Data centers,AI software & productivity,ai,ai,,,
+anet,ANET,Arista Networks,msft,MSFT,Microsoft,ai,Data centers,Cloud platforms,ai,ai,,,
+aph,APH,Amphenol,nvda,NVDA,Nvidia,ai,Data centers,Chips & accelerators,ai,ai,,,
+arm,ARM,Arm Holdings,amzn,AMZN,Amazon,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+arm,ARM,Arm Holdings,googl,GOOGL,Alphabet,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+arm,ARM,Arm Holdings,meta,META,Meta Platforms,ai,Chips & accelerators,AI software & productivity,ai,ai,,,
+arm,ARM,Arm Holdings,msft,MSFT,Microsoft,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+arm,ARM,Arm Holdings,nvda,NVDA,Nvidia,ai,Chips & accelerators,Chips & accelerators,ai,ai,,,
+arm,ARM,Arm Holdings,qcom,QCOM,Qualcomm,ai,Chips & accelerators,Chips & accelerators,ai,ai,,,
+avgo,AVGO,Broadcom,amzn,AMZN,Amazon,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+avgo,AVGO,Broadcom,anet,ANET,Arista Networks,ai,Chips & accelerators,Data centers,ai,ai,,,
+avgo,AVGO,Broadcom,googl,GOOGL,Alphabet,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+avgo,AVGO,Broadcom,meta,META,Meta Platforms,ai,Chips & accelerators,AI software & productivity,ai,ai,,,
+avgo,AVGO,Broadcom,msft,MSFT,Microsoft,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+axp,AXP,American Express,coin,COIN,Coinbase,finans,Payment rails & networks,Brokers & fintech,finans,finans,,,
+axp,AXP,American Express,fisv,FISV,Fiserv,finans,Payment rails & networks,Payment rails & networks,finans,finans,,,
+axp,AXP,American Express,gpn,GPN,Global Payments,finans,Payment rails & networks,Payment rails & networks,finans,finans,,,
+axp,AXP,American Express,ms,MS,Morgan Stanley,finans,Payment rails & networks,Investment banking & trading,finans,finans,,,
+axp,AXP,American Express,schw,SCHW,Charles Schwab,finans,Payment rails & networks,Brokers & fintech,finans,finans,,,
+bax,BAX,Baxter International,cah,CAH,Cardinal Health,medicin,Medtech & devices,Distribution & pharmacy infrastructure,medicin,medicin,,,
+bdx,BDX,Becton Dickinson,cah,CAH,Cardinal Health,medicin,Medtech & devices,Distribution & pharmacy infrastructure,medicin,medicin,,,
+bdx,BDX,Becton Dickinson,lh,LH,Labcorp,medicin,Medtech & devices,Diagnostics,medicin,medicin,,,
+be,BE,Bloom Energy,aep,AEP,American Electric Power,energi,Power equipment,Utilities & power producers,energi,energi,"Fuel cells under a supply agreement; AEP installs them at customer sites, including for AI data centers","Bloom Energy press release, Nov 2024",https://www.bloomenergy.com/news/bloom-energy-announces-gigawatt-fuel-cell-procurement-agreement-with-aep/
+be,BE,Bloom Energy,eqix,EQIX,Equinix,,Power equipment,Data centers,energi,ai,Fuel cells supplementing grid power at Equinix's U.S. data centers,"Bloom Energy press release, Feb 2025",https://www.silicon.co.uk/press-release/bloom-energy-expands-data-center-power-agreement-with-equinix-surpassing-100mw
+be,BE,Bloom Energy,orcl,ORCL,Oracle,,Power equipment,Cloud platforms,energi,ai,Fuel cells providing on-site power for Oracle's AI data centers,"Bloom Energy 10-Q, Q3 2026",https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm
+biib,BIIB,Biogen,mck,MCK,McKesson,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+bio,BIO,Bio-Rad Laboratories,lh,LH,Labcorp,medicin,Diagnostics,Diagnostics,medicin,medicin,,,
+bmrn,BMRN,BioMarin Pharmaceutical,cor,COR,Cencora,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+bmy,BMY,Bristol Myers Squibb,cor,COR,Cencora,medicin,Big pharma,Distribution & pharmacy infrastructure,medicin,medicin,,,
+bmy,BMY,Bristol Myers Squibb,mck,MCK,McKesson,medicin,Big pharma,Distribution & pharmacy infrastructure,medicin,medicin,,,
+bny,BNY,BNY,blk,BLK,BlackRock,finans,Banks,Asset & alternative managers,finans,finans,Administrator and cash custodian for iShares Bitcoin Trust,iShares Bitcoin Trust ETF: Form 10-K FY2025,https://www.sec.gov/Archives/edgar/data/1980994/000143774926006058/bit20251231_10k.htm
+br,BR,Broadridge,gs,GS,Goldman Sachs,finans,Exchanges & market data,Investment banking & trading,finans,finans,Proxy solicitation and mailing of materials for Goldman Sachs funds,"Goldman Sachs Trust: Joint proxy statement DEF 14A, March 2026",https://www.sec.gov/Archives/edgar/data/822977/000119312526114780/d32931ddef14a.htm
+br,BR,Broadridge,kkr,KKR,KKR,finans,Exchanges & market data,Asset & alternative managers,finans,finans,"Distribution, solicitation and tabulation of proxies for KKR Asset-Based Finance Fund","KKR Asset-Based Finance Fund: Proxy statement DEF 14A, January 2026",https://www.sec.gov/Archives/edgar/data/1787621/000119312526000812/d96820ddef14a.htm
+bsx,BSX,Boston Scientific,cah,CAH,Cardinal Health,medicin,Medtech & devices,Distribution & pharmacy infrastructure,medicin,medicin,,,
+bwxt,BWXT,BWX Technologies,gev,GEV,GE Vernova,energi,Nuclear energy & uranium,Power equipment,energi,energi,,,
+cah,CAH,Cardinal Health,cvs,CVS,CVS Health,medicin,Distribution & pharmacy infrastructure,Distribution & pharmacy infrastructure,medicin,medicin,,,
+cah,CAH,Cardinal Health,unh,UNH,UnitedHealth,medicin,Distribution & pharmacy infrastructure,Distribution & pharmacy infrastructure,medicin,medicin,,,
+carr,CARR,Carrier Global,dlr,DLR,Digital Realty,ai,"Cooling, power & data center infrastructure",Data centers,ai,ai,,,
+carr,CARR,Carrier Global,eqix,EQIX,Equinix,ai,"Cooling, power & data center infrastructure",Data centers,ai,ai,,,
+cdns,CDNS,Cadence Design Systems,amd,AMD,AMD,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+cdns,CDNS,Cadence Design Systems,avgo,AVGO,Broadcom,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+cdns,CDNS,Cadence Design Systems,intc,INTC,Intel,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+cdns,CDNS,Cadence Design Systems,nvda,NVDA,Nvidia,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+cdns,CDNS,Cadence Design Systems,qcom,QCOM,Qualcomm,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+ceg,CEG,Constellation Energy,msft,MSFT,Microsoft,,Utilities & power producers,Cloud platforms,energi,ai,Carbon-free power from the restarted Crane Clean Energy Center under a 20-year agreement,"Constellation press release, Sep 2024",https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html
+cien,CIEN,Ciena,eqix,EQIX,Equinix,ai,Data centers,Data centers,ai,ai,,,
+cien,CIEN,Ciena,msft,MSFT,Microsoft,ai,Data centers,Cloud platforms,ai,ai,,,
+cme,CME,CME Group,gs,GS,Goldman Sachs,finans,Exchanges & market data,Investment banking & trading,finans,finans,,,
+cme,CME,CME Group,hood,HOOD,Robinhood,finans,Exchanges & market data,Brokers & fintech,finans,finans,,,
+cme,CME,CME Group,ibkr,IBKR,Interactive Brokers,finans,Exchanges & market data,Brokers & fintech,finans,finans,,,
+cme,CME,CME Group,jpm,JPM,JPMorgan Chase,finans,Exchanges & market data,Banks,finans,finans,,,
+cme,CME,CME Group,ms,MS,Morgan Stanley,finans,Exchanges & market data,Investment banking & trading,finans,finans,,,
+cme,CME,CME Group,schw,SCHW,Charles Schwab,finans,Exchanges & market data,Brokers & fintech,finans,finans,,,
+cohr,COHR,Coherent,anet,ANET,Arista Networks,ai,Data centers,Data centers,ai,ai,,,
+cohr,COHR,Coherent,cien,CIEN,Ciena,ai,Data centers,Data centers,ai,ai,,,
+coin,COIN,Coinbase,blk,BLK,BlackRock,finans,Brokers & fintech,Asset & alternative managers,finans,finans,,,
+cor,COR,Cencora,ci,CI,The Cigna Group,medicin,Distribution & pharmacy infrastructure,Distribution & pharmacy infrastructure,medicin,medicin,,,
+crdo,CRDO,Credo Technology,amzn,AMZN,Amazon,ai,Data centers,Cloud platforms,ai,ai,,,
+crdo,CRDO,Credo Technology,msft,MSFT,Microsoft,ai,Data centers,Cloud platforms,ai,ai,,,
+crl,CRL,Charles River Laboratories,alny,ALNY,Alnylam Pharmaceuticals,medicin,CDMO & pharma manufacturing,Biotech & innovation,medicin,medicin,,,
+crl,CRL,Charles River Laboratories,bmrn,BMRN,BioMarin Pharmaceutical,medicin,CDMO & pharma manufacturing,Biotech & innovation,medicin,medicin,,,
+crl,CRL,Charles River Laboratories,bmy,BMY,Bristol Myers Squibb,medicin,CDMO & pharma manufacturing,Big pharma,medicin,medicin,,,
+crl,CRL,Charles River Laboratories,incy,INCY,Incyte,medicin,CDMO & pharma manufacturing,Biotech & innovation,medicin,medicin,,,
+crl,CRL,Charles River Laboratories,lly,LLY,Eli Lilly,medicin,CDMO & pharma manufacturing,Diabetes & metabolic disease,medicin,medicin,,,
+crl,CRL,Charles River Laboratories,pfe,PFE,Pfizer,medicin,CDMO & pharma manufacturing,Big pharma,medicin,medicin,,,
+crl,CRL,Charles River Laboratories,regn,REGN,Regeneron,medicin,CDMO & pharma manufacturing,Biotech & innovation,medicin,medicin,,,
+crl,CRL,Charles River Laboratories,zts,ZTS,Zoetis,medicin,CDMO & pharma manufacturing,Big pharma,medicin,medicin,,,
+crm,CRM,Salesforce,ncno,NCNO,nCino,,AI software & productivity,Brokers & fintech,ai,finans,"The Salesforce Platform, on which fundamental parts of nCino are built",nCino: Form 10-K FY2026,https://www.sec.gov/Archives/edgar/data/1902733/000190273326000022/ncno-20260131.htm
+crwv,CRWV,CoreWeave,msft,MSFT,Microsoft,ai,Cloud platforms,Cloud platforms,ai,ai,,,
+csco,CSCO,Cisco,amzn,AMZN,Amazon,ai,Data centers,Cloud platforms,ai,ai,,,
+csco,CSCO,Cisco,cdw,CDW,CDW,ai,Data centers,IT consultants & integrators,ai,ai,Cisco products that CDW resells and integrates for customers,"CDW 10-K, FY2025",https://www.sec.gov/Archives/edgar/data/1402057/000140205726000011/cdw-20251231.htm
+csco,CSCO,Cisco,msft,MSFT,Microsoft,ai,Data centers,Cloud platforms,ai,ai,,,
+cw,CW,Curtiss-Wright,ceg,CEG,Constellation Energy,energi,Nuclear energy & uranium,Utilities & power producers,energi,energi,,,
+cw,CW,Curtiss-Wright,duk,DUK,Duke Energy,energi,Nuclear energy & uranium,Utilities & power producers,energi,energi,,,
+cw,CW,Curtiss-Wright,smr,SMR,NuScale Power,energi,Nuclear energy & uranium,Nuclear energy & uranium,energi,energi,,,
+cw,CW,Curtiss-Wright,so,SO,Southern Company,energi,Nuclear energy & uranium,Utilities & power producers,energi,energi,,,
+dco,DCO,Ducommun,boeing,BA,Boeing,forsvar,"Radar, sensors & electronics",Military platforms,forsvar,forsvar,"Electronics, cable assemblies and structural parts for aircraft and defense systems",Ducommun 10-K 2025,https://www.sec.gov/Archives/edgar/data/30305/000162828026011952/dco-20251231.htm
+dco,DCO,Ducommun,lmt,LMT,Lockheed Martin,forsvar,"Radar, sensors & electronics",Defense integrators,forsvar,forsvar,"Electronics, cable assemblies and structural parts for aircraft and defense systems",Ducommun 10-K 2025,https://www.sec.gov/Archives/edgar/data/30305/000162828026011952/dco-20251231.htm
+dco,DCO,Ducommun,noc,NOC,Northrop Grumman,forsvar,"Radar, sensors & electronics",Defense integrators,forsvar,forsvar,"Electronics, cable assemblies and structural parts for aircraft and defense systems",Ducommun 10-K 2025,https://www.sec.gov/Archives/edgar/data/30305/000162828026011952/dco-20251231.htm
+dco,DCO,Ducommun,rtx,RTX,RTX,forsvar,"Radar, sensors & electronics",Defense integrators,forsvar,forsvar,"Electronics, cable assemblies and structural parts for aircraft and defense systems",Ducommun 10-K 2025,https://www.sec.gov/Archives/edgar/data/30305/000162828026011952/dco-20251231.htm
+dell,DELL,Dell Technologies,cdw,CDW,CDW,ai,Data centers,IT consultants & integrators,ai,ai,Dell products that CDW resells and integrates for customers,"CDW 10-K, FY2025",https://www.sec.gov/Archives/edgar/data/1402057/000140205726000011/cdw-20251231.htm
+dell,DELL,Dell Technologies,crwv,CRWV,CoreWeave,ai,Data centers,Cloud platforms,ai,ai,,,
+dell,DELL,Dell Technologies,tdc,TDC,Teradata,ai,Data centers,"Data, analytics & enterprise AI",ai,ai,Servers for Teradata's solutions,"Teradata 10-K, FY2025",https://www.sec.gov/Archives/edgar/data/816761/000162828026012671/tdc-20251231.htm
+dgx,DGX,Quest Diagnostics,ci,CI,The Cigna Group,medicin,Diagnostics,Distribution & pharmacy infrastructure,medicin,medicin,,,
+dhr,DHR,Danaher,amgn,AMGN,Amgen,medicin,Life science tools,Biotech & innovation,medicin,medicin,,,
+dhr,DHR,Danaher,lly,LLY,Eli Lilly,medicin,Life science tools,Diabetes & metabolic disease,medicin,medicin,,,
+dhr,DHR,Danaher,regn,REGN,Regeneron,medicin,Life science tools,Biotech & innovation,medicin,medicin,,,
+dlr,DLR,Digital Realty,msft,MSFT,Microsoft,ai,Data centers,Cloud platforms,ai,ai,,,
+drs,DRS,Leonardo DRS,gd,GD,General Dynamics,forsvar,"Radar, sensors & electronics",Defense integrators,forsvar,forsvar,Electric propulsion system for the Columbia-class submarines built by Electric Boat,"Defence Connect: Leonardo DRS and Columbia class, January 2024",https://www.defenceconnect.com.au/naval/13423-leonardo-secures-3-billion-contract-for-us-navy-columbia-class
+dxcm,DXCM,DexCom,cvs,CVS,CVS Health,medicin,Diabetes & metabolic disease,Distribution & pharmacy infrastructure,medicin,medicin,,,
+eme,EME,EMCOR Group,dlr,DLR,Digital Realty,ai,"Cooling, power & data center infrastructure",Data centers,ai,ai,,,
+eme,EME,EMCOR Group,eqix,EQIX,Equinix,ai,"Cooling, power & data center infrastructure",Data centers,ai,ai,,,
+emr,EMR,Emerson Electric,ceg,CEG,Constellation Energy,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+emr,EMR,Emerson Electric,duk,DUK,Duke Energy,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+emr,EMR,Emerson Electric,nee,NEE,NextEra Energy,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+emr,EMR,Emerson Electric,vst,VST,Vistra,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+enph,ENPH,Enphase Energy,run,RUN,Sunrun,energi,Solar & wind,Solar & wind,energi,energi,IQ microinverters for Sunrun's home systems under a supply agreement,"Solar Power World, Nov 2019",https://www.solarpowerworldonline.com/2019/11/enphase-signs-agreement-microinverters-sunrun/
+entg,ENTG,Entegris,intc,INTC,Intel,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+entg,ENTG,Entegris,mu,MU,Micron,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+eqix,EQIX,Equinix,amzn,AMZN,Amazon,ai,Data centers,Cloud platforms,ai,ai,,,
+eqix,EQIX,Equinix,ftnt,FTNT,Fortinet,,Data centers,Network security,ai,forsvar,Colocation for Fortinet's cloud services,Fortinet 10-K 2025,https://www.sec.gov/Archives/edgar/data/1262039/000126203926000007/ftnt-20251231.htm
+eqix,EQIX,Equinix,msft,MSFT,Microsoft,ai,Data centers,Cloud platforms,ai,ai,,,
+eqix,EQIX,Equinix,zs,ZS,Zscaler,,Data centers,Cloud security,ai,forsvar,Colocation for the Zero Trust Exchange in Australia,"Zscaler press release, September 2024",https://www.zscaler.com/press/zscaler-doubles-down-investments-australia-new-co-located-data-center
+etn,ETN,Eaton,aep,AEP,American Electric Power,energi,Power equipment,Utilities & power producers,energi,energi,,,
+etn,ETN,Eaton,duk,DUK,Duke Energy,energi,Power equipment,Utilities & power producers,energi,energi,,,
+etn,ETN,Eaton,exc,EXC,Exelon,energi,Power equipment,Utilities & power producers,energi,energi,,,
+etn,ETN,Eaton,nee,NEE,NextEra Energy,energi,Power equipment,Utilities & power producers,energi,energi,,,
+etr,ETR,Entergy,meta,META,Meta Platforms,,Utilities & power producers,AI software & productivity,energi,ai,"Electricity for Meta's Richland Parish data center, backed by new gas plants and transmission","Entergy news release, Aug 2025",https://www.entergy.com/news/entergy-louisiana-receives-lpsc-approval-for-major-infrastructure-investments-to-support-metas-data-center-and-improve-reliability
+fico,FICO,Fair Isaac (FICO),tru,TRU,TransUnion,finans,Exchanges & market data,Exchanges & market data,finans,finans,FICO Score licence that TransUnion resells to lenders,Fair Isaac: Form 10-K FY2025,https://www.sec.gov/Archives/edgar/data/814547/000081454725000030/fico-20250930.htm
+fis,FIS,FIS,fitb,FITB,Fifth Third Bancorp,finans,Payment rails & networks,Banks,finans,finans,Modern Banking Platform core system and Unity wealth platform,Retail Banker International: Fifth Third expands partnership with FIS (2021),https://www.retailbankerinternational.com/news/fifth-third-bank-expands-partnership-with-fis/
+fisv,FISV,Fiserv,pnc,PNC,PNC Financial,finans,Payment rails & networks,Banks,finans,finans,,,
+fisv,FISV,Fiserv,wfc,WFC,Wells Fargo,finans,Payment rails & networks,Banks,finans,finans,,,
+fix,FIX,Comfort Systems USA,dlr,DLR,Digital Realty,ai,"Cooling, power & data center infrastructure",Data centers,ai,ai,,,
+fix,FIX,Comfort Systems USA,eqix,EQIX,Equinix,ai,"Cooling, power & data center infrastructure",Data centers,ai,ai,,,
+fly,FLY,Firefly Aerospace,lhx,LHX,L3Harris,forsvar,Space industry & satellites,Defense integrators,forsvar,forsvar,Launches on the Alpha rocket under a multi-launch agreement,Firefly Aerospace 10-K 2025,https://www.sec.gov/Archives/edgar/data/1860160/000119312526116309/fly-20251231.htm
+fly,FLY,Firefly Aerospace,lmt,LMT,Lockheed Martin,forsvar,Space industry & satellites,Defense integrators,forsvar,forsvar,Launches on the Alpha rocket under a multi-launch agreement,Firefly Aerospace 10-K 2025,https://www.sec.gov/Archives/edgar/data/1860160/000119312526116309/fly-20251231.htm
+form,FORM,FormFactor,ionq,IONQ,IonQ,quantum,"Enablers, test & components",Quantum hardware & platforms,quantum,quantum,,,
+form,FORM,FormFactor,qbts,QBTS,D-Wave Quantum,quantum,"Enablers, test & components",Quantum hardware & platforms,quantum,quantum,,,
+form,FORM,FormFactor,rgti,RGTI,Rigetti Computing,quantum,"Enablers, test & components",Quantum hardware & platforms,quantum,quantum,,,
+fslr,FSLR,First Solar,nee,NEE,NextEra Energy,energi,Solar & wind,Utilities & power producers,energi,energi,,,
+ge,GE,GE Aerospace,boeing,BA,Boeing,forsvar,Dual-use technology,Military platforms,forsvar,forsvar,,,
+ge,GE,GE Aerospace,lmt,LMT,Lockheed Martin,forsvar,Dual-use technology,Defense integrators,forsvar,forsvar,,,
+ge,GE,GE Aerospace,txt,TXT,Textron,forsvar,Dual-use technology,Military platforms,forsvar,forsvar,,,
+gehc,GEHC,GE HealthCare,cah,CAH,Cardinal Health,medicin,Medtech & devices,Distribution & pharmacy infrastructure,medicin,medicin,,,
+gev,GEV,GE Vernova,aep,AEP,American Electric Power,energi,Power equipment,Utilities & power producers,energi,energi,,,
+gev,GEV,GE Vernova,ceg,CEG,Constellation Energy,energi,Power equipment,Utilities & power producers,energi,energi,,,
+gev,GEV,GE Vernova,duk,DUK,Duke Energy,energi,Power equipment,Utilities & power producers,energi,energi,,,
+gev,GEV,GE Vernova,nee,NEE,NextEra Energy,energi,Power equipment,Utilities & power producers,energi,energi,,,
+gev,GEV,GE Vernova,nrg,NRG,NRG Energy,energi,Power equipment,Utilities & power producers,energi,energi,,,
+gev,GEV,GE Vernova,so,SO,Southern Company,energi,Power equipment,Utilities & power producers,energi,energi,,,
+gev,GEV,GE Vernova,tln,TLN,Talen Energy,energi,Power equipment,Utilities & power producers,energi,energi,,,
+gev,GEV,GE Vernova,vst,VST,Vistra,energi,Power equipment,Utilities & power producers,energi,energi,,,
+gild,GILD,Gilead Sciences,cah,CAH,Cardinal Health,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+gild,GILD,Gilead Sciences,cor,COR,Cencora,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+gild,GILD,Gilead Sciences,mck,MCK,McKesson,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+gnrc,GNRC,Generac,amzn,AMZN,Amazon,,Power equipment,Cloud platforms,energi,ai,Backup generators for Amazon's data centers under a long-term supply agreement,"Generac 8-K, Sep 2026",https://www.sec.gov/Archives/edgar/data/1474735/000143774926030550/gnrc20260915_8k.htm
+googl,GOOGL,Alphabet,app,APP,AppLovin,ai,Cloud platforms,AI software & productivity,ai,ai,,,
+googl,GOOGL,Alphabet,cme,CME,CME Group,,Cloud platforms,Exchanges & market data,ai,finans,"Google Cloud as infrastructure for CME's data, clearing and markets",Google Cloud Press Corner: CME Group 10-year partnership (2021),https://www.googlecloudpresscorner.com/2021-11-04-CME-Group-Signs-10-Year-Partnership-with-Google-Cloud-to-Transform-Global-Derivatives-Markets-Through-Cloud-Adoption
+googl,GOOGL,Alphabet,estc,ESTC,Elastic,,Cloud platforms,"SOC, XDR & threat detection",ai,forsvar,Cloud hosting for Elastic Cloud on Google Cloud,"Elastic 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1707753/000170775326000018/estc-20260430.htm
+googl,GOOGL,Alphabet,panw,PANW,Palo Alto Networks,,Cloud platforms,Network security,ai,forsvar,"Google Cloud for internal workloads, plus Vertex AI and Gemini","Palo Alto Networks press release, December 2025",https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-and-google-cloud-forge-landmark-agreement-to-help-customers-securely-accelerate-cloud-and-ai-initiatives
+gs,GS,Goldman Sachs,kkr,KKR,KKR,finans,Investment banking & trading,Asset & alternative managers,finans,finans,,,
+hei,HEI,HEICO,boeing,BA,Boeing,forsvar,Military platforms,Military platforms,forsvar,forsvar,,,
+hei,HEI,HEICO,gd,GD,General Dynamics,forsvar,Military platforms,Defense integrators,forsvar,forsvar,,,
+hei,HEI,HEICO,lmt,LMT,Lockheed Martin,forsvar,Military platforms,Defense integrators,forsvar,forsvar,,,
+hei,HEI,HEICO,noc,NOC,Northrop Grumman,forsvar,Military platforms,Defense integrators,forsvar,forsvar,,,
+hei,HEI,HEICO,rtx,RTX,RTX,forsvar,Military platforms,Defense integrators,forsvar,forsvar,,,
+hii,HII,Huntington Ingalls Industries,gd,GD,General Dynamics,forsvar,Military platforms,Defense integrators,forsvar,forsvar,,,
+hon,HON,Honeywell,boeing,BA,Boeing,forsvar,Dual-use technology,Military platforms,forsvar,forsvar,,,
+hon,HON,Honeywell,gd,GD,General Dynamics,forsvar,Dual-use technology,Defense integrators,forsvar,forsvar,,,
+hon,HON,Honeywell,lmt,LMT,Lockheed Martin,forsvar,Dual-use technology,Defense integrators,forsvar,forsvar,,,
+hon,HON,Honeywell,noc,NOC,Northrop Grumman,forsvar,Dual-use technology,Defense integrators,forsvar,forsvar,,,
+hon,HON,Honeywell,txt,TXT,Textron,forsvar,Dual-use technology,Military platforms,forsvar,forsvar,,,
+hpe,HPE,HPE,dlr,DLR,Digital Realty,ai,Data centers,Data centers,ai,ai,,,
+hubb,HUBB,Hubbell,duk,DUK,Duke Energy,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+hubb,HUBB,Hubbell,exc,EXC,Exelon,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+hubb,HUBB,Hubbell,nee,NEE,NextEra Energy,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+hubb,HUBB,Hubbell,so,SO,Southern Company,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+hwm,HWM,Howmet Aerospace,boeing,BA,Boeing,forsvar,Military platforms,Military platforms,forsvar,forsvar,,,
+hwm,HWM,Howmet Aerospace,gd,GD,General Dynamics,forsvar,Military platforms,Defense integrators,forsvar,forsvar,,,
+hwm,HWM,Howmet Aerospace,ge,GE,GE Aerospace,forsvar,Military platforms,Dual-use technology,forsvar,forsvar,,,
+hwm,HWM,Howmet Aerospace,lmt,LMT,Lockheed Martin,forsvar,Military platforms,Defense integrators,forsvar,forsvar,,,
+hwm,HWM,Howmet Aerospace,noc,NOC,Northrop Grumman,forsvar,Military platforms,Defense integrators,forsvar,forsvar,,,
+hwm,HWM,Howmet Aerospace,rtx,RTX,RTX,forsvar,Military platforms,Defense integrators,forsvar,forsvar,,,
+hwm,HWM,Howmet Aerospace,txt,TXT,Textron,forsvar,Military platforms,Military platforms,forsvar,forsvar,,,
+hxl,HXL,Hexcel,boeing,BA,Boeing,forsvar,Military platforms,Military platforms,forsvar,forsvar,"Carbon fiber composites, prepreg and honeycomb for aircraft structures",Hexcel 10-K 2025,https://www.sec.gov/Archives/edgar/data/717605/000119312526046377/hxl-20251231.htm
+hxl,HXL,Hexcel,gd,GD,General Dynamics,forsvar,Military platforms,Defense integrators,forsvar,forsvar,"Carbon fiber composites, prepreg and honeycomb for aircraft structures",Hexcel 10-K 2025,https://www.sec.gov/Archives/edgar/data/717605/000119312526046377/hxl-20251231.htm
+hxl,HXL,Hexcel,ge,GE,GE Aerospace,forsvar,Military platforms,Dual-use technology,forsvar,forsvar,Composite materials for jet engines,Hexcel 10-K 2025,https://www.sec.gov/Archives/edgar/data/717605/000119312526046377/hxl-20251231.htm
+hxl,HXL,Hexcel,lmt,LMT,Lockheed Martin,forsvar,Military platforms,Defense integrators,forsvar,forsvar,"Carbon fiber composites, prepreg and honeycomb for aircraft structures",Hexcel 10-K 2025,https://www.sec.gov/Archives/edgar/data/717605/000119312526046377/hxl-20251231.htm
+hxl,HXL,Hexcel,noc,NOC,Northrop Grumman,forsvar,Military platforms,Defense integrators,forsvar,forsvar,"Carbon fiber composites, prepreg and honeycomb for aircraft structures",Hexcel 10-K 2025,https://www.sec.gov/Archives/edgar/data/717605/000119312526046377/hxl-20251231.htm
+hxl,HXL,Hexcel,rtx,RTX,RTX,forsvar,Military platforms,Defense integrators,forsvar,forsvar,"Carbon fiber composites, prepreg and honeycomb for aircraft structures",Hexcel 10-K 2025,https://www.sec.gov/Archives/edgar/data/717605/000119312526046377/hxl-20251231.htm
+hxl,HXL,Hexcel,txt,TXT,Textron,forsvar,Military platforms,Military platforms,forsvar,forsvar,Finished composite parts (Engineered Products),Hexcel 10-K 2025,https://www.sec.gov/Archives/edgar/data/717605/000119312526046377/hxl-20251231.htm
+ibm,IBM,IBM,kd,KD,Kyndryl,ai,IT consultants & integrators,IT consultants & integrators,ai,ai,IBM products clients consume through Kyndryl's service contracts,"Kyndryl 10-K, FY2026",https://www.sec.gov/Archives/edgar/data/0001867072/000110465926067881/kd-20260331x10k.htm
+ice,ICE,Intercontinental Exchange,blk,BLK,BlackRock,finans,Exchanges & market data,Asset & alternative managers,finans,finans,,,
+ice,ICE,Intercontinental Exchange,gs,GS,Goldman Sachs,finans,Exchanges & market data,Investment banking & trading,finans,finans,,,
+ice,ICE,Intercontinental Exchange,ibkr,IBKR,Interactive Brokers,finans,Exchanges & market data,Brokers & fintech,finans,finans,,,
+ice,ICE,Intercontinental Exchange,schw,SCHW,Charles Schwab,finans,Exchanges & market data,Brokers & fintech,finans,finans,,,
+ilmn,ILMN,Illumina,dgx,DGX,Quest Diagnostics,medicin,Life science tools,Diagnostics,medicin,medicin,,,
+ilmn,ILMN,Illumina,lh,LH,Labcorp,medicin,Life science tools,Diagnostics,medicin,medicin,,,
+ilmn,ILMN,Illumina,ntra,NTRA,Natera,medicin,Life science tools,Diagnostics,medicin,medicin,,,
+ilmn,ILMN,Illumina,regn,REGN,Regeneron,medicin,Life science tools,Biotech & innovation,medicin,medicin,,,
+ilmn,ILMN,Illumina,vrtx,VRTX,Vertex Pharmaceuticals,medicin,Life science tools,Biotech & innovation,medicin,medicin,,,
+incy,INCY,Incyte,cor,COR,Cencora,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+infq,INFQ,Infleqtion,etn,ETN,Eaton,,Quantum hardware & platforms,Power equipment,quantum,energi,Quantum computing hardware as a subcontractor on Eaton's power grid research program,"Infleqtion press release, Aug 2026",https://infleqtion.com/infleqtion-selected-by-eaton-to-support-research-advancing-quantum-computing-for-u-s-grid-resilience/
+infq,INFQ,Infleqtion,lhx,LHX,L3Harris,,Quantum hardware & platforms,Defense integrators,quantum,forsvar,Subcontractor on a classified quantum RF sensing program with L3Harris as prime,"Infleqtion press release, Dec 2023",https://infleqtion.com/infleqtion-and-l3harris-collaborate-to-develop-and-deploy-new-quantum-rf-sensing-technology-solutions/
+intc,INTC,Intel,amzn,AMZN,Amazon,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+intc,INTC,Intel,dell,DELL,Dell Technologies,ai,Chips & accelerators,Data centers,ai,ai,,,
+intc,INTC,Intel,msft,MSFT,Microsoft,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+ionq,IONQ,IonQ,amzn,AMZN,Amazon,,Quantum hardware & platforms,Cloud platforms,quantum,ai,Access to IonQ's trapped-ion QPUs through Amazon Braket,Amazon Braket: quantum hardware providers,https://aws.amazon.com/braket/quantum-computers/
+ionq,IONQ,IonQ,msft,MSFT,Microsoft,,Quantum hardware & platforms,Cloud platforms,quantum,ai,Aria and Forte QPUs through Azure Quantum,Microsoft Learn: Azure Quantum providers,https://learn.microsoft.com/en-us/azure/quantum/qc-target-list
+iqv,IQV,IQVIA Holdings,amgn,AMGN,Amgen,medicin,CDMO & pharma manufacturing,Biotech & innovation,medicin,medicin,,,
+iqv,IQV,IQVIA Holdings,biib,BIIB,Biogen,medicin,CDMO & pharma manufacturing,Biotech & innovation,medicin,medicin,,,
+iqv,IQV,IQVIA Holdings,gild,GILD,Gilead Sciences,medicin,CDMO & pharma manufacturing,Biotech & innovation,medicin,medicin,,,
+iqv,IQV,IQVIA Holdings,lly,LLY,Eli Lilly,medicin,CDMO & pharma manufacturing,Diabetes & metabolic disease,medicin,medicin,,,
+iqv,IQV,IQVIA Holdings,mrk,MRK,Merck & Co.,medicin,CDMO & pharma manufacturing,Big pharma,medicin,medicin,,,
+iqv,IQV,IQVIA Holdings,nbix,NBIX,Neurocrine Biosciences,medicin,CDMO & pharma manufacturing,Biotech & innovation,medicin,medicin,,,
+iqv,IQV,IQVIA Holdings,pfe,PFE,Pfizer,medicin,CDMO & pharma manufacturing,Big pharma,medicin,medicin,,,
+iqv,IQV,IQVIA Holdings,uthr,UTHR,United Therapeutics,medicin,CDMO & pharma manufacturing,Biotech & innovation,medicin,medicin,,,
+itri,ITRI,Itron,d,D,Dominion Energy,energi,Grid & electrification,Utilities & power producers,energi,energi,AMI Operations software and network tools for Dominion's metering system,Itron case study: Dominion Energy,https://na.itron.com/documents/d/asset-library-120736/dominion-energy-case-study
+itri,ITRI,Itron,exc,EXC,Exelon,energi,Grid & electrification,Utilities & power producers,energi,energi,"Communication network and analytics software for the metering system at ComEd, Exelon's Illinois utility",Itron case study: ComEd,https://na.itron.com/documents/d/asset-library-120736/comed-case-study
+jnj,JNJ,Johnson & Johnson,cor,COR,Cencora,medicin,Big pharma,Distribution & pharmacy infrastructure,medicin,medicin,,,
+jnj,JNJ,Johnson & Johnson,mck,MCK,McKesson,medicin,Big pharma,Distribution & pharmacy infrastructure,medicin,medicin,,,
+jpm,JPM,JPMorgan Chase,blk,BLK,BlackRock,finans,Banks,Asset & alternative managers,finans,finans,,,
+klac,KLAC,KLA,intc,INTC,Intel,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+klac,KLAC,KLA,mu,MU,Micron,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+krmn,KRMN,Karman Space & Defense,lmt,LMT,Lockheed Martin,forsvar,Missiles & ammunition,Defense integrators,forsvar,forsvar,Protective shrouds for the THAAD interceptor,"Karman press release via Business Wire, October 2026",https://finviz.com/news/404447/karman-space-defense-awarded-218-million-long-term-agreement-to-support-thaad-production
+ktos,KTOS,Kratos Defense,rtx,RTX,RTX,forsvar,Drones & autonomous systems,Defense integrators,forsvar,forsvar,,,
+leu,LEU,Centrus Energy,ceg,CEG,Constellation Energy,energi,Nuclear energy & uranium,Utilities & power producers,energi,energi,,,
+leu,LEU,Centrus Energy,nee,NEE,NextEra Energy,energi,Nuclear energy & uranium,Utilities & power producers,energi,energi,,,
+leu,LEU,Centrus Energy,oklo,OKLO,Oklo,energi,Nuclear energy & uranium,Nuclear energy & uranium,energi,energi,,,
+leu,LEU,Centrus Energy,tln,TLN,Talen Energy,energi,Nuclear energy & uranium,Utilities & power producers,energi,energi,,,
+leu,LEU,Centrus Energy,vst,VST,Vistra,energi,Nuclear energy & uranium,Utilities & power producers,energi,energi,,,
+lh,LH,Labcorp,unh,UNH,UnitedHealth,medicin,Diagnostics,Distribution & pharmacy infrastructure,medicin,medicin,,,
+lhx,LHX,L3Harris,rtx,RTX,RTX,forsvar,Defense integrators,Defense integrators,forsvar,forsvar,,,
+lly,LLY,Eli Lilly,cah,CAH,Cardinal Health,medicin,Diabetes & metabolic disease,Distribution & pharmacy infrastructure,medicin,medicin,,,
+lly,LLY,Eli Lilly,cor,COR,Cencora,medicin,Diabetes & metabolic disease,Distribution & pharmacy infrastructure,medicin,medicin,,,
+lly,LLY,Eli Lilly,mck,MCK,McKesson,medicin,Diabetes & metabolic disease,Distribution & pharmacy infrastructure,medicin,medicin,,,
+lrcx,LRCX,Lam Research,intc,INTC,Intel,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+lrcx,LRCX,Lam Research,mu,MU,Micron,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+lunr,LUNR,Intuitive Machines,lhx,LHX,L3Harris,forsvar,Space industry & satellites,Defense integrators,forsvar,forsvar,Satellite buses for the SDA Tracking Layer,Intuitive Machines 10-K 2025,https://www.sec.gov/Archives/edgar/data/1844452/000162828026019865/lunr-20251231.htm
+ma,MA,Mastercard,bac,BAC,Bank of America,finans,Payment rails & networks,Banks,finans,finans,,,
+ma,MA,Mastercard,c,C,Citigroup,finans,Payment rails & networks,Banks,finans,finans,,,
+ma,MA,Mastercard,jkhy,JKHY,Jack Henry & Associates,finans,Payment rails & networks,Payment rails & networks,finans,finans,Mastercard Move for near-instant transfers in Jack Henry Rapid Transfers,Jack Henry: How Rapid Transfers works across debit card rails,https://www.jackhenry.com/fintalk/how-jack-henry-rapid-transfers-works-across-secure-debit-card-rails
+ma,MA,Mastercard,jpm,JPM,JPMorgan Chase,finans,Payment rails & networks,Banks,finans,finans,,,
+ma,MA,Mastercard,pypl,PYPL,PayPal,finans,Payment rails & networks,Payment rails & networks,finans,finans,,,
+ma,MA,Mastercard,usb,USB,U.S. Bancorp,finans,Payment rails & networks,Banks,finans,finans,,,
+ma,MA,Mastercard,wfc,WFC,Wells Fargo,finans,Payment rails & networks,Banks,finans,finans,,,
+ma,MA,Mastercard,xyz,XYZ,Block,finans,Payment rails & networks,Brokers & fintech,finans,finans,,,
+mchp,MCHP,Microchip Technology,tsla,TSLA,Tesla,ai,Chips & accelerators,AI software & productivity,ai,ai,,,
+mchp,MCHP,Microchip Technology,vrt,VRT,Vertiv,ai,Chips & accelerators,"Cooling, power & data center infrastructure",ai,ai,,,
+mck,MCK,McKesson,cvs,CVS,CVS Health,medicin,Distribution & pharmacy infrastructure,Distribution & pharmacy infrastructure,medicin,medicin,,,
+mco,MCO,Moody’s,bac,BAC,Bank of America,finans,Exchanges & market data,Banks,finans,finans,,,
+mco,MCO,Moody’s,jpm,JPM,JPMorgan Chase,finans,Exchanges & market data,Banks,finans,finans,,,
+mco,MCO,Moody’s,kkr,KKR,KKR,finans,Exchanges & market data,Asset & alternative managers,finans,finans,,,
+mdt,MDT,Medtronic,cah,CAH,Cardinal Health,medicin,Medtech & devices,Distribution & pharmacy infrastructure,medicin,medicin,,,
+mod,MOD,Modine Manufacturing,dlr,DLR,Digital Realty,ai,"Cooling, power & data center infrastructure",Data centers,ai,ai,,,
+mog,MOG.A,Moog,boeing,BA,Boeing,forsvar,Military platforms,Military platforms,forsvar,forsvar,Flight controls and control systems for military and commercial aircraft and space,"Moog 10-K, fiscal 2025",https://www.sec.gov/Archives/edgar/data/67887/000162828025054103/mog-20250927.htm
+mog,MOG.A,Moog,lmt,LMT,Lockheed Martin,forsvar,Military platforms,Defense integrators,forsvar,forsvar,Flight controls for the F-35 program,"Moog 10-K, fiscal 2025",https://www.sec.gov/Archives/edgar/data/67887/000162828025054103/mog-20250927.htm
+mog,MOG.A,Moog,txt,TXT,Textron,forsvar,Military platforms,Military platforms,forsvar,forsvar,Flight controls in development for the Bell MV-75,"Moog 10-K, fiscal 2025",https://www.sec.gov/Archives/edgar/data/67887/000162828025054103/mog-20250927.htm
+mpwr,MPWR,Monolithic Power,amd,AMD,AMD,ai,Chips & accelerators,Chips & accelerators,ai,ai,,,
+mpwr,MPWR,Monolithic Power,nvda,NVDA,Nvidia,ai,Chips & accelerators,Chips & accelerators,ai,ai,,,
+mrcy,MRCY,Mercury Systems,lhx,LHX,L3Harris,forsvar,"Radar, sensors & electronics",Defense integrators,forsvar,forsvar,Signal processing and RF subsystems for radar and electronic warfare,"Mercury Systems 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1049521/000104952126000045/mrcy-20260703.htm
+mrcy,MRCY,Mercury Systems,lmt,LMT,Lockheed Martin,forsvar,"Radar, sensors & electronics",Defense integrators,forsvar,forsvar,Signal processing and RF subsystems for radar and electronic warfare,"Mercury Systems 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1049521/000104952126000045/mrcy-20260703.htm
+mrcy,MRCY,Mercury Systems,noc,NOC,Northrop Grumman,forsvar,"Radar, sensors & electronics",Defense integrators,forsvar,forsvar,Signal processing and RF subsystems for radar and electronic warfare,"Mercury Systems 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1049521/000104952126000045/mrcy-20260703.htm
+mrcy,MRCY,Mercury Systems,rtx,RTX,RTX,forsvar,"Radar, sensors & electronics",Defense integrators,forsvar,forsvar,Signal processing and RF subsystems for radar and electronic warfare,"Mercury Systems 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1049521/000104952126000045/mrcy-20260703.htm
+mrk,MRK,Merck & Co.,cor,COR,Cencora,medicin,Big pharma,Distribution & pharmacy infrastructure,medicin,medicin,,,
+mrk,MRK,Merck & Co.,mck,MCK,McKesson,medicin,Big pharma,Distribution & pharmacy infrastructure,medicin,medicin,,,
+mrvl,MRVL,Marvell,amzn,AMZN,Amazon,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+mrvl,MRVL,Marvell,googl,GOOGL,Alphabet,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+mrvl,MRVL,Marvell,msft,MSFT,Microsoft,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+msci,MSCI,MSCI,blk,BLK,BlackRock,finans,Exchanges & market data,Asset & alternative managers,finans,finans,,,
+msft,MSFT,Microsoft,acn,ACN,Accenture,ai,Cloud platforms,IT consultants & integrators,ai,ai,,,
+msft,MSFT,Microsoft,adbe,ADBE,Adobe,ai,Cloud platforms,AI software & productivity,ai,ai,,,
+msft,MSFT,Microsoft,cdw,CDW,CDW,ai,Cloud platforms,IT consultants & integrators,ai,ai,Microsoft products that CDW resells to customers,"CDW 10-K, FY2025",https://www.sec.gov/Archives/edgar/data/1402057/000140205726000011/cdw-20251231.htm
+msft,MSFT,Microsoft,ctsh,CTSH,Cognizant,ai,Cloud platforms,IT consultants & integrators,ai,ai,,,
+msft,MSFT,Microsoft,cvlt,CVLT,Commvault Systems,,Cloud platforms,Incident response & recovery,ai,forsvar,Cloud hosting for parts of Commvault's products on Azure,"Commvault 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1169561/000116956126000017/cvlt-20260331.htm
+msft,MSFT,Microsoft,estc,ESTC,Elastic,,Cloud platforms,"SOC, XDR & threat detection",ai,forsvar,Cloud hosting for Elastic Cloud on Azure,"Elastic 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1707753/000170775326000018/estc-20260430.htm
+msft,MSFT,Microsoft,now,NOW,ServiceNow,ai,Cloud platforms,AI software & productivity,ai,ai,,,
+msft,MSFT,Microsoft,snow,SNOW,Snowflake,ai,Cloud platforms,"Data, analytics & enterprise AI",ai,ai,,,
+msft,MSFT,Microsoft,tenb,TENB,Tenable,,Cloud platforms,Vulnerability management,ai,forsvar,Cloud services under a multi-year contract,Tenable 10-K 2025,https://www.sec.gov/Archives/edgar/data/1660280/000166028026000005/tenb-20251231.htm
+msft,MSFT,Microsoft,vrns,VRNS,Varonis Systems,,Cloud platforms,Data security,ai,forsvar,Azure runs the Varonis SaaS platform,Varonis: Varonis in the Cloud,https://www.varonis.com/blog/varonis-in-the-cloud
+mtz,MTZ,MasTec,nee,NEE,NextEra Energy,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+mu,MU,Micron,amd,AMD,AMD,ai,Chips & accelerators,Chips & accelerators,ai,ai,,,
+mu,MU,Micron,dell,DELL,Dell Technologies,ai,Chips & accelerators,Data centers,ai,ai,,,
+mu,MU,Micron,nvda,NVDA,Nvidia,ai,Chips & accelerators,Chips & accelerators,ai,ai,,,
+nbix,NBIX,Neurocrine Biosciences,mck,MCK,McKesson,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+ncno,NCNO,nCino,zion,ZION,Zions Bancorporation,finans,Brokers & fintech,Banks,finans,finans,nCino's loan origination platform across Zions' banks,The Fly via TipRanks: nCino selected by Zions Bancorporation (2025),https://www.tipranks.com/news/the-fly/ncino-selected-by-zions-bancorporation-to-transform-loan-origination-process
+ndaq,NDAQ,Nasdaq,gs,GS,Goldman Sachs,finans,Exchanges & market data,Investment banking & trading,finans,finans,,,
+ndaq,NDAQ,Nasdaq,hood,HOOD,Robinhood,finans,Exchanges & market data,Brokers & fintech,finans,finans,,,
+noc,NOC,Northrop Grumman,boeing,BA,Boeing,forsvar,Defense integrators,Military platforms,forsvar,forsvar,,,
+noc,NOC,Northrop Grumman,lmt,LMT,Lockheed Martin,forsvar,Defense integrators,Defense integrators,forsvar,forsvar,,,
+ntap,NTAP,NetApp,msft,MSFT,Microsoft,ai,Data centers,Cloud platforms,ai,ai,,,
+ntap,NTAP,NetApp,tdc,TDC,Teradata,ai,Data centers,"Data, analytics & enterprise AI",ai,ai,Storage disk systems for Teradata's solutions,"Teradata 10-K, FY2025",https://www.sec.gov/Archives/edgar/data/816761/000162828026012671/tdc-20251231.htm
+ntra,NTRA,Natera,unh,UNH,UnitedHealth,medicin,Diagnostics,Distribution & pharmacy infrastructure,medicin,medicin,,,
+nvda,NVDA,Nvidia,acn,ACN,Accenture,ai,Chips & accelerators,IT consultants & integrators,ai,ai,,,
+nvda,NVDA,Nvidia,amzn,AMZN,Amazon,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+nvda,NVDA,Nvidia,crwv,CRWV,CoreWeave,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+nvda,NVDA,Nvidia,dell,DELL,Dell Technologies,ai,Chips & accelerators,Data centers,ai,ai,,,
+nvda,NVDA,Nvidia,googl,GOOGL,Alphabet,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+nvda,NVDA,Nvidia,hpe,HPE,HPE,ai,Chips & accelerators,Data centers,ai,ai,,,
+nvda,NVDA,Nvidia,ibm,IBM,IBM,ai,Chips & accelerators,IT consultants & integrators,ai,ai,,,
+nvda,NVDA,Nvidia,isrg,ISRG,Intuitive Surgical,,Chips & accelerators,Medtech & devices,ai,medicin,Computing technology for the da Vinci 5 robot and Omniverse for digital twins,"Medical Design & Outsourcing, Apr 2026",https://www.medicaldesignandoutsourcing.com/a-surgeon-and-intuitive-exec-explain-da-vinci-5s-10000x-computing-leap/
+nvda,NVDA,Nvidia,meta,META,Meta Platforms,ai,Chips & accelerators,AI software & productivity,ai,ai,,,
+nvda,NVDA,Nvidia,mrcy,MRCY,Mercury Systems,,Chips & accelerators,"Radar, sensors & electronics",ai,forsvar,GPUs for embedded processing products,"Mercury Systems 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1049521/000104952126000045/mrcy-20260703.htm
+nvda,NVDA,Nvidia,msft,MSFT,Microsoft,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+nvda,NVDA,Nvidia,orcl,ORCL,Oracle,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+nvda,NVDA,Nvidia,smci,SMCI,Super Micro,ai,Chips & accelerators,Data centers,ai,ai,,,
+nvda,NVDA,Nvidia,tdc,TDC,Teradata,ai,Chips & accelerators,"Data, analytics & enterprise AI",ai,ai,"GPUs, including for AI Factory","Teradata 10-K, FY2025",https://www.sec.gov/Archives/edgar/data/816761/000162828026012671/tdc-20251231.htm
+nvda,NVDA,Nvidia,tsla,TSLA,Tesla,ai,Chips & accelerators,AI software & productivity,ai,ai,,,
+nxt,NXT,Nextpower,te,TE,T1 Energy,energi,Solar & wind,Solar & wind,energi,energi,Steel frames for solar modules from T1's Dallas plant under a multi-year framework agreement,"Nextracker press release, Oct 2025",https://nextpower.com/post/press-release/nextracker-and-t1-energy-sign-multi-year-agreement-for-supply-of-advanced
+oklo,OKLO,Oklo,meta,META,Meta Platforms,,Nuclear energy & uranium,AI software & productivity,energi,ai,Planned power from an Aurora nuclear campus in Ohio that Meta is helping to fund; nothing is operating yet,"Meta newsroom, Jan 2026",https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/
+okta,OKTA,Okta,net,NET,Cloudflare,forsvar,Identity & access management,Cloud security,forsvar,forsvar,,,
+on,ON,ON Semiconductor,tsla,TSLA,Tesla,ai,Chips & accelerators,AI software & productivity,ai,ai,,,
+on,ON,ON Semiconductor,vrt,VRT,Vertiv,ai,Chips & accelerators,"Cooling, power & data center infrastructure",ai,ai,,,
+p,P,Everpure,meta,META,Meta Platforms,ai,Data centers,AI software & productivity,ai,ai,,,
+pfe,PFE,Pfizer,cah,CAH,Cardinal Health,medicin,Big pharma,Distribution & pharmacy infrastructure,medicin,medicin,,,
+pfe,PFE,Pfizer,cor,COR,Cencora,medicin,Big pharma,Distribution & pharmacy infrastructure,medicin,medicin,,,
+pfe,PFE,Pfizer,mck,MCK,McKesson,medicin,Big pharma,Distribution & pharmacy infrastructure,medicin,medicin,,,
+podd,PODD,Insulet,cvs,CVS,CVS Health,medicin,Diabetes & metabolic disease,Distribution & pharmacy infrastructure,medicin,medicin,,,
+pwr,PWR,Quanta Services,aep,AEP,American Electric Power,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+pwr,PWR,Quanta Services,d,D,Dominion Energy,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+pwr,PWR,Quanta Services,duk,DUK,Duke Energy,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+pwr,PWR,Quanta Services,exc,EXC,Exelon,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+pwr,PWR,Quanta Services,nee,NEE,NextEra Energy,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+pwr,PWR,Quanta Services,so,SO,Southern Company,energi,Grid & electrification,Utilities & power producers,energi,energi,,,
+qcom,QCOM,Qualcomm,msft,MSFT,Microsoft,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+qnt,QNT,Quantinuum,msft,MSFT,Microsoft,,Quantum hardware & platforms,Cloud platforms,quantum,ai,System Model H2 quantum computers through Azure Quantum,Microsoft Learn: Azure Quantum providers,https://learn.microsoft.com/en-us/azure/quantum/qc-target-list
+rgti,RGTI,Rigetti Computing,amzn,AMZN,Amazon,,Quantum hardware & platforms,Cloud platforms,quantum,ai,Cepheus-1-108Q processor (108 qubits) on Amazon Braket,"AWS What's New, Apr 2026",https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-braket-rigetti-cepheus
+rgti,RGTI,Rigetti Computing,msft,MSFT,Microsoft,,Quantum hardware & platforms,Cloud platforms,quantum,ai,Cepheus-1-108Q processor through Azure Quantum,Microsoft Learn: Azure Quantum providers,https://learn.microsoft.com/en-us/azure/quantum/qc-target-list
+rmd,RMD,ResMed,cah,CAH,Cardinal Health,medicin,Medtech & devices,Distribution & pharmacy infrastructure,medicin,medicin,,,
+rok,ROK,Rockwell Automation,fslr,FSLR,First Solar,energi,Power equipment,Solar & wind,energi,energi,,,
+rtx,RTX,RTX,boeing,BA,Boeing,forsvar,Defense integrators,Military platforms,forsvar,forsvar,,,
+rtx,RTX,RTX,lmt,LMT,Lockheed Martin,forsvar,Defense integrators,Defense integrators,forsvar,forsvar,,,
+rvty,RVTY,Revvity,bmy,BMY,Bristol Myers Squibb,medicin,Life science tools,Big pharma,medicin,medicin,,,
+smci,SMCI,Super Micro,crwv,CRWV,CoreWeave,ai,Data centers,Cloud platforms,ai,ai,,,
+smci,SMCI,Super Micro,rbrk,RBRK,Rubrik,,Data centers,Incident response & recovery,ai,forsvar,Servers for the Rubrik-branded appliances,"Rubrik 10-K, fiscal 2026",https://www.sec.gov/Archives/edgar/data/1943896/000194389626000013/rbrk-20260131.htm
+snps,SNPS,Synopsys,amd,AMD,AMD,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+snps,SNPS,Synopsys,avgo,AVGO,Broadcom,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+snps,SNPS,Synopsys,intc,INTC,Intel,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+snps,SNPS,Synopsys,nvda,NVDA,Nvidia,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+snps,SNPS,Synopsys,qcom,QCOM,Qualcomm,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+spacex,,SpaceX,asts,ASTS,AST SpaceMobile,forsvar,Space industry & satellites,Space industry & satellites,forsvar,forsvar,,,
+spacex,,SpaceX,gsat,GSAT,Globalstar,forsvar,Space industry & satellites,Space industry & satellites,forsvar,forsvar,,,
+spacex,,SpaceX,irdm,IRDM,Iridium Communications,forsvar,Space industry & satellites,Space industry & satellites,forsvar,forsvar,,,
+spacex,,SpaceX,lunr,LUNR,Intuitive Machines,forsvar,Space industry & satellites,Space industry & satellites,forsvar,forsvar,Launch of lunar missions,Intuitive Machines 10-K 2025,https://www.sec.gov/Archives/edgar/data/1844452/000162828026019865/lunr-20251231.htm
+spacex,,SpaceX,vsat,VSAT,Viasat,forsvar,Space industry & satellites,Space industry & satellites,forsvar,forsvar,,,
+spgi,SPGI,S&P Global,apo,APO,Apollo Global,finans,Exchanges & market data,Asset & alternative managers,finans,finans,,,
+spgi,SPGI,S&P Global,axp,AXP,American Express,finans,Exchanges & market data,Payment rails & networks,finans,finans,,,
+spgi,SPGI,S&P Global,bac,BAC,Bank of America,finans,Exchanges & market data,Banks,finans,finans,,,
+spgi,SPGI,S&P Global,blk,BLK,BlackRock,finans,Exchanges & market data,Asset & alternative managers,finans,finans,,,
+spgi,SPGI,S&P Global,bx,BX,Blackstone,finans,Exchanges & market data,Asset & alternative managers,finans,finans,,,
+spgi,SPGI,S&P Global,gs,GS,Goldman Sachs,finans,Exchanges & market data,Investment banking & trading,finans,finans,,,
+spgi,SPGI,S&P Global,jpm,JPM,JPMorgan Chase,finans,Exchanges & market data,Banks,finans,finans,,,
+spgi,SPGI,S&P Global,ms,MS,Morgan Stanley,finans,Exchanges & market data,Investment banking & trading,finans,finans,,,
+spgi,SPGI,S&P Global,schw,SCHW,Charles Schwab,finans,Exchanges & market data,Brokers & fintech,finans,finans,,,
+ssnc,SSNC,SS&C Technologies,apo,APO,Apollo Global,finans,Exchanges & market data,Asset & alternative managers,finans,finans,SS&C GIDS is transfer agent and registrar for Apollo Debt Solutions BDC,"Apollo Debt Solutions BDC: Form 486BPOS, April 2026",https://www.sec.gov/Archives/edgar/data/1837532/000119312526159295/ck0001837532-20260416.htm
+ssnc,SSNC,SS&C Technologies,bx,BX,Blackstone,finans,Exchanges & market data,Asset & alternative managers,finans,finans,SS&C GIDS is transfer agent for Blackstone Private Credit Fund,"Blackstone Private Credit Fund: Form 424B2, 2026",https://www.sec.gov/Archives/edgar/data/0001803498/000119312526177172/d148653d424b2.htm
+ssnc,SSNC,SS&C Technologies,kkr,KKR,KKR,finans,Exchanges & market data,Asset & alternative managers,finans,finans,SS&C GIDS is transfer agent for KKR Asset-Based Finance Fund,"KKR Asset-Based Finance Fund: Proxy statement DEF 14A, January 2026",https://www.sec.gov/Archives/edgar/data/1787621/000119312526000812/d96820ddef14a.htm
+stt,STT,State Street,apo,APO,Apollo Global,finans,Banks,Asset & alternative managers,finans,finans,Custody and sub-administration for Apollo Debt Solutions BDC,"Apollo Debt Solutions BDC: Form 486BPOS, April 2026",https://www.sec.gov/Archives/edgar/data/1837532/000119312526159295/ck0001837532-20260416.htm
+stt,STT,State Street,bx,BX,Blackstone,finans,Banks,Asset & alternative managers,finans,finans,Custody for Blackstone Private Credit Fund,"Blackstone Private Credit Fund: Form 424B2, 2026",https://www.sec.gov/Archives/edgar/data/0001803498/000119312526177172/d148653d424b2.htm
+stt,STT,State Street,schw,SCHW,Charles Schwab,finans,Banks,Brokers & fintech,finans,finans,"Custodian, fund accountant and transfer agent for Schwab's ETFs","Schwab Strategic Trust: Form 485BPOS, March 2026",https://www.sec.gov/Archives/edgar/data/1454889/000110465926032204/tm265040d1_485bpos.htm
+stx,STX,Seagate,amzn,AMZN,Amazon,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+stx,STX,Seagate,googl,GOOGL,Alphabet,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+syk,SYK,Stryker,cah,CAH,Cardinal Health,medicin,Medtech & devices,Distribution & pharmacy infrastructure,medicin,medicin,,,
+tdg,TDG,TransDigm Group,boeing,BA,Boeing,forsvar,Dual-use technology,Military platforms,forsvar,forsvar,,,
+tdg,TDG,TransDigm Group,lmt,LMT,Lockheed Martin,forsvar,Dual-use technology,Defense integrators,forsvar,forsvar,,,
+tdg,TDG,TransDigm Group,noc,NOC,Northrop Grumman,forsvar,Dual-use technology,Defense integrators,forsvar,forsvar,,,
+tdg,TDG,TransDigm Group,rtx,RTX,RTX,forsvar,Dual-use technology,Defense integrators,forsvar,forsvar,,,
+tdy,TDY,Teledyne Technologies,avav,AVAV,AeroVironment,forsvar,Dual-use technology,Drones & autonomous systems,forsvar,forsvar,,,
+tdy,TDY,Teledyne Technologies,boeing,BA,Boeing,forsvar,Dual-use technology,Military platforms,forsvar,forsvar,,,
+tdy,TDY,Teledyne Technologies,hii,HII,Huntington Ingalls Industries,forsvar,Dual-use technology,Military platforms,forsvar,forsvar,,,
+tdy,TDY,Teledyne Technologies,ktos,KTOS,Kratos Defense,forsvar,Dual-use technology,Drones & autonomous systems,forsvar,forsvar,,,
+tdy,TDY,Teledyne Technologies,lhx,LHX,L3Harris,forsvar,Dual-use technology,Defense integrators,forsvar,forsvar,,,
+tdy,TDY,Teledyne Technologies,lmt,LMT,Lockheed Martin,forsvar,Dual-use technology,Defense integrators,forsvar,forsvar,,,
+tdy,TDY,Teledyne Technologies,noc,NOC,Northrop Grumman,forsvar,Dual-use technology,Defense integrators,forsvar,forsvar,,,
+tdy,TDY,Teledyne Technologies,rklb,RKLB,Rocket Lab,forsvar,Dual-use technology,Space industry & satellites,forsvar,forsvar,,,
+tdy,TDY,Teledyne Technologies,rtx,RTX,RTX,forsvar,Dual-use technology,Defense integrators,forsvar,forsvar,,,
+ter,TER,Teradyne,intc,INTC,Intel,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+ter,TER,Teradyne,mu,MU,Micron,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+ter,TER,Teradyne,qcom,QCOM,Qualcomm,ai,Semiconductor equipment & IP,Chips & accelerators,ai,ai,,,
+tln,TLN,Talen Energy,amzn,AMZN,Amazon,,Utilities & power producers,Cloud platforms,energi,ai,Nuclear power from Susquehanna for Amazon's data centers under an agreement running to 2042,"Talen press release (SEC), Jun 2025",https://www.sec.gov/Archives/edgar/data/1622536/000162828025030559/a20250611pressreleasebusin.htm
+tmo,TMO,Thermo Fisher Scientific,amgn,AMGN,Amgen,medicin,Life science tools,Biotech & innovation,medicin,medicin,,,
+tmo,TMO,Thermo Fisher Scientific,idxx,IDXX,IDEXX Laboratories,medicin,Life science tools,Diagnostics,medicin,medicin,,,
+tmo,TMO,Thermo Fisher Scientific,jnj,JNJ,Johnson & Johnson,medicin,Life science tools,Big pharma,medicin,medicin,,,
+tmo,TMO,Thermo Fisher Scientific,lly,LLY,Eli Lilly,medicin,Life science tools,Diabetes & metabolic disease,medicin,medicin,,,
+tmo,TMO,Thermo Fisher Scientific,mrna,MRNA,Moderna,medicin,Life science tools,Biotech & innovation,medicin,medicin,,,
+tmo,TMO,Thermo Fisher Scientific,pfe,PFE,Pfizer,medicin,Life science tools,Big pharma,medicin,medicin,,,
+tru,TRU,TransUnion,bac,BAC,Bank of America,finans,Exchanges & market data,Banks,finans,finans,FICO Score based on TransUnion data for Bank of America card customers,Bank of America: FICO Score Program terms,https://www.bankofamerica.com/content/documents/agreement/FICO_Print_Version.pdf
+tsla,TSLA,Tesla,run,RUN,Sunrun,,AI software & productivity,Solar & wind,ai,energi,Battery equipment and inverters; Tesla is on Sunrun's approved vendor list,"Sunrun Form ABS-15G (Leidos report), May 2024",https://investors.sunrun.com/filings-financials/sec-filings/content/0001193125-24-145021/0001193125-24-145021.pdf
+txn,TXN,Texas Instruments,dell,DELL,Dell Technologies,ai,Chips & accelerators,Data centers,ai,ai,,,
+txn,TXN,Texas Instruments,vrt,VRT,Vertiv,ai,Chips & accelerators,"Cooling, power & data center infrastructure",ai,ai,,,
+uthr,UTHR,United Therapeutics,ci,CI,The Cigna Group,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+uthr,UTHR,United Therapeutics,cvs,CVS,CVS Health,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+v,V,Visa,bac,BAC,Bank of America,finans,Payment rails & networks,Banks,finans,finans,,,
+v,V,Visa,c,C,Citigroup,finans,Payment rails & networks,Banks,finans,finans,,,
+v,V,Visa,hood,HOOD,Robinhood,finans,Payment rails & networks,Brokers & fintech,finans,finans,,,
+v,V,Visa,jkhy,JKHY,Jack Henry & Associates,finans,Payment rails & networks,Payment rails & networks,finans,finans,Visa Direct for near-instant transfers in Jack Henry Rapid Transfers,Jack Henry: How Rapid Transfers works across debit card rails,https://www.jackhenry.com/fintalk/how-jack-henry-rapid-transfers-works-across-secure-debit-card-rails
+v,V,Visa,jpm,JPM,JPMorgan Chase,finans,Payment rails & networks,Banks,finans,finans,,,
+v,V,Visa,pnc,PNC,PNC Financial,finans,Payment rails & networks,Banks,finans,finans,,,
+v,V,Visa,pypl,PYPL,PayPal,finans,Payment rails & networks,Payment rails & networks,finans,finans,,,
+v,V,Visa,usb,USB,U.S. Bancorp,finans,Payment rails & networks,Banks,finans,finans,,,
+v,V,Visa,wfc,WFC,Wells Fargo,finans,Payment rails & networks,Banks,finans,finans,,,
+v,V,Visa,xyz,XYZ,Block,finans,Payment rails & networks,Brokers & fintech,finans,finans,,,
+virt,VIRT,Virtu Financial,hood,HOOD,Robinhood,finans,Investment banking & trading,Brokers & fintech,finans,finans,Executes Robinhood customers' stock orders as market maker,"Robinhood Securities: Rule 606 order routing report, Q2 2026",https://cdn.finra.org/606/2026/287900_606_NMS_2026_Q2_V1.pdf
+virt,VIRT,Virtu Financial,schw,SCHW,Charles Schwab,finans,Investment banking & trading,Brokers & fintech,finans,finans,Executes Schwab customers' stock orders as market maker,"Charles Schwab: Rule 606 order routing report, Q2 2026",https://cdn.finra.org/606/2026/5393_606_NMS_2026_Q2_CHAS_V1.pdf
+vrt,VRT,Vertiv,dlr,DLR,Digital Realty,ai,"Cooling, power & data center infrastructure",Data centers,ai,ai,,,
+vrt,VRT,Vertiv,eqix,EQIX,Equinix,ai,"Cooling, power & data center infrastructure",Data centers,ai,ai,,,
+vrt,VRT,Vertiv,msft,MSFT,Microsoft,ai,"Cooling, power & data center infrastructure",Cloud platforms,ai,ai,,,
+vrtx,VRTX,Vertex Pharmaceuticals,ci,CI,The Cigna Group,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+vrtx,VRTX,Vertex Pharmaceuticals,mck,MCK,McKesson,medicin,Biotech & innovation,Distribution & pharmacy infrastructure,medicin,medicin,,,
+vst,VST,Vistra,meta,META,Meta Platforms,,Utilities & power producers,AI software & productivity,energi,ai,Nuclear power from Perry and Davis-Besse plus capacity uprates under 20-year agreements,"Meta newsroom, Jan 2026",https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/
+wat,WAT,Waters Corporation,abbv,ABBV,AbbVie,medicin,Life science tools,Big pharma,medicin,medicin,,,
+wat,WAT,Waters Corporation,lly,LLY,Eli Lilly,medicin,Life science tools,Diabetes & metabolic disease,medicin,medicin,,,
+wdc,WDC,Western Digital,amzn,AMZN,Amazon,ai,Chips & accelerators,Cloud platforms,ai,ai,,,
+wdc,WDC,Western Digital,dell,DELL,Dell Technologies,ai,Chips & accelerators,Data centers,ai,ai,,,
+wst,WST,West Pharmaceutical Services,abbv,ABBV,AbbVie,medicin,CDMO & pharma manufacturing,Big pharma,medicin,medicin,,,
+wst,WST,West Pharmaceutical Services,amgn,AMGN,Amgen,medicin,CDMO & pharma manufacturing,Biotech & innovation,medicin,medicin,,,
+wst,WST,West Pharmaceutical Services,bmy,BMY,Bristol Myers Squibb,medicin,CDMO & pharma manufacturing,Big pharma,medicin,medicin,,,
+wst,WST,West Pharmaceutical Services,jnj,JNJ,Johnson & Johnson,medicin,CDMO & pharma manufacturing,Big pharma,medicin,medicin,,,
+wst,WST,West Pharmaceutical Services,lly,LLY,Eli Lilly,medicin,CDMO & pharma manufacturing,Diabetes & metabolic disease,medicin,medicin,,,
+wst,WST,West Pharmaceutical Services,mrk,MRK,Merck & Co.,medicin,CDMO & pharma manufacturing,Big pharma,medicin,medicin,,,
+wst,WST,West Pharmaceutical Services,pfe,PFE,Pfizer,medicin,CDMO & pharma manufacturing,Big pharma,medicin,medicin,,,
+wst,WST,West Pharmaceutical Services,regn,REGN,Regeneron,medicin,CDMO & pharma manufacturing,Biotech & innovation,medicin,medicin,,,
+wwd,WWD,Woodward,boeing,BA,Boeing,forsvar,Military platforms,Military platforms,forsvar,forsvar,"Fuel, air and motion control systems for jet engines and aircraft","Woodward 10-K, fiscal 2025",https://www.sec.gov/Archives/edgar/data/108312/000119312525296204/wwd-20250930.htm
+wwd,WWD,Woodward,ge,GE,GE Aerospace,forsvar,Military platforms,Dual-use technology,forsvar,forsvar,"Fuel, air and motion control systems for jet engines and aircraft","Woodward 10-K, fiscal 2025",https://www.sec.gov/Archives/edgar/data/108312/000119312525296204/wwd-20250930.htm
+wwd,WWD,Woodward,gev,GEV,GE Vernova,,Military platforms,Power equipment,forsvar,energi,Components for industrial turbines,"Woodward 10-K, fiscal 2025",https://www.sec.gov/Archives/edgar/data/108312/000119312525296204/wwd-20250930.htm
+wwd,WWD,Woodward,rtx,RTX,RTX,forsvar,Military platforms,Defense integrators,forsvar,forsvar,"Fuel, air and motion control systems for jet engines and aircraft","Woodward 10-K, fiscal 2025",https://www.sec.gov/Archives/edgar/data/108312/000119312525296204/wwd-20250930.htm
+zbh,ZBH,Zimmer Biomet,cah,CAH,Cardinal Health,medicin,Medtech & devices,Distribution & pharmacy infrastructure,medicin,medicin,,,
